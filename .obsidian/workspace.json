@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "69f7a4664d59044f",
+    "type": "split",
+    "children": [
+      {
+        "id": "12494cee48f8bd0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8247ed33ffa6ade",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fbc435b4a7d9b046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0352dbd99d5a4189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "languages/javascript/execution-model/runtime.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "runtime"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40246b8e0834b27d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fb16637a3b672b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6cfa377e757d57a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "d6ab58fb29e5b330",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "80b22508cfee56f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1907f899e45286ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "27baf14767fe3f6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4eaee553e4cb333",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "0d40c6196655c62e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "9547a24b35d024c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "46dbe1bb5890d276",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "821a80115fc47cf0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "e8247ed33ffa6ade",
+  "lastOpenFiles": [
+    "languages/javascript/execution-model/runtime.md",
+    "languages/javascript/execution-model/garbage-collector.md",
+    "distributed-systems/quorum.md",
+    "distributed-systems/replication-theory.md",
+    "distributed-systems/partitioning.md",
+    "distributed-systems/leader-election.md",
+    "distributed-systems/failure-detection.md",
+    "distributed-systems/crdts.md",
+    "distributed-systems/consistency-models.md",
+    "distributed-systems/consensus.md",
+    "distributed-systems/cap-theorem.md",
+    "distributed-systems/byzantine-fault-tolerance.md",
+    "databases/b-trees.md",
+    "quality/security/csrf.md",
+    "Bem-vindo.md",
+    "system-design/databases/sql-vs-nosql.md",
+    "system-design/databases",
+    "system-design",
+    "stacks/react-native/testing.md",
+    "stacks/react-native/performance.md",
+    "stacks/react-native/internals.md",
+    "stacks/react-native/apis.md",
+    "stacks/react-native/01-QUESTIONS.md",
+    "stacks/javascript/reference.md",
+    "stacks/javascript/internals.md",
+    "stacks/javascript/apis.md",
+    "stacks/javascript/01-QUESTIONS.md",
+    "stacks/react-native",
+    "stacks/node-js",
+    "stacks/next-js",
+    "stacks/javascript",
+    "stacks",
+    "languages/javascript/execution-model",
+    "languages/swift",
+    "languages/javascript",
+    "data-structure-and-algorithms/graphs/graphs.md",
+    "applied/advanced-web-concepts/images/critical-rendering-path-01.png",
+    "frameworks/react-native/architecture/images/old-architecutre-bridge.png"
+  ]
+}
