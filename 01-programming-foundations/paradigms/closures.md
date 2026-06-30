@@ -34,6 +34,6 @@
 ## See Also
 - [[higher-order-functions]] — functions returning closures
 - [[functional-programming]] — lexical scoping foundation
-- [[memoization]] — closure-based caching
+- [[07-performance-engineering/memoization|memoization]] — closure-based caching
 - [[runtime]] — captured variables on the heap
 - [[garbage-collector]] — closures and reachability

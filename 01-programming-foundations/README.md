@@ -33,6 +33,7 @@ The conceptual bedrock: the paradigms that shape how we structure programs, and 
 ## Languages
 
 ### JavaScript
-- [Runtime & Execution Model](languages/javascript/execution-model/runtime.md)
-- [Garbage Collector](languages/javascript/execution-model/garbage-collector.md)
-- [Review Questions](languages/javascript/review-questions.md)
+
+A deep track on the language and its runtime — **full index: [JavaScript](languages/javascript/README.md).**
+
+Execution model (event loop, GC) · Engine internals (V8 pipeline, JIT tiers, hidden classes, deopt) · Language semantics (coercion, prototypes, `this`, closures, proxies, generators, symbols) · Modules (ESM internals & resolution) · Asynchrony (promises internals, async/await desugaring) · Concurrency (web workers, shared memory & atomics).

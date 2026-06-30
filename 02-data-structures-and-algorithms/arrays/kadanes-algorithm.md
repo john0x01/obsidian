@@ -24,6 +24,6 @@
 
 ## See Also
 - [[sliding-window]] — closely related subarray technique
-- [[memoization]] — dynamic programming intuition
+- [[07-performance-engineering/memoization|memoization]] — dynamic programming intuition
 - [[algorithmic-optimization]] — brute force to linear scan
 - [[big-o-in-practice]] — achieving linear time

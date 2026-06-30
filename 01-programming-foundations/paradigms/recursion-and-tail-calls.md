@@ -36,4 +36,4 @@
 - [[recursion]] — recursion as DS&A technique (canonical)
 - [[pattern-matching]] — base/recursive case dispatch
 - [[imperative-programming]] — loops vs recursion
-- [[memoization]] — memoized recursion
+- [[07-performance-engineering/memoization|memoization]] — memoized recursion

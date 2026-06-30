@@ -1,6 +1,6 @@
 # 10 · Frameworks & Stacks
 
-Deep dives into specific technologies. React Native is the most developed track (architecture through shipping); Node.js and Next.js are study outlines to grow.
+Deep dives into specific technologies, each aimed at mastery — internals, philosophy, and trade-offs, not syntax. Four tracks: **React Native**, **React**, **Next.js**, and **Node.js**, each with its own detailed index.
 
 [← Back to vault index](../README.md)
 
@@ -85,8 +85,20 @@ Start with [Review Questions](react-native/review-questions.md) to gauge where y
 - [Detox Internals](react-native/testing/detox-internals.md)
 - [Maestro](react-native/testing/maestro.md)
 
-## Node.js
-- [Node.js — Study Outline](node-js/node-js.md)
+## React
+
+The most internals-focused track. **Full index: [React](react/README.md).**
+
+Philosophy (`UI = f(state)`, composition, unidirectional flow) · Core model (elements, JSX, virtual DOM, reconciliation) · Fiber (the reconciler, work loop, lanes) · Rendering (render/commit, concurrent rendering, Suspense, transitions) · Hooks (internals, effects, memoization, concurrent hooks) · State management · Server Components & Actions · The React Compiler.
 
 ## Next.js
-- [Next.js — Study Outline](next-js/next-js.md)
+
+**Full index: [Next.js](next-js/README.md).**
+
+Rendering strategies (SSR/SSG/ISR/PPR, streaming, hydration) · App Router (layouts, file conventions, advanced routing) · Data fetching & the four caching layers · RSC / Flight internals & the client-server boundary · Runtime (Node vs Edge, middleware) · Turbopack & SWC · Asset optimization.
+
+## Node.js
+
+**Full index: [Node.js](node-js/README.md).**
+
+Architecture (V8 + libuv, the event-loop phases, thread pool, process lifecycle) · Modules (CommonJS & ESM internals, resolution) · Streams & backpressure · Buffers & I/O · Concurrency (worker threads, cluster, `AsyncLocalStorage`) · Native addons (N-API) · Performance (profiling, memory, event-loop lag) · Security model.

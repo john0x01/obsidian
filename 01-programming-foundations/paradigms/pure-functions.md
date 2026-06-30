@@ -34,6 +34,6 @@
 ## See Also
 - [[functional-programming]] — paradigm built on purity (canonical)
 - [[immutability]] — eliminates mutation side effects
-- [[memoization]] — cacheable due to determinism
+- [[07-performance-engineering/memoization|memoization]] — cacheable due to determinism
 - [[higher-order-functions]] — composing pure functions
 - [[monads-and-functors]] — managing effects at boundary

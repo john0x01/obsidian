@@ -17,7 +17,7 @@ A personal knowledge base of CS and software-engineering notes, organized as a l
 | 07 | [Performance Engineering](07-performance-engineering/README.md) | Profiling, optimization by resource bound, latency vs throughput. |
 | 08 | [Quality & Operations](08-quality-and-operations/README.md) | Testing, security, observability, DevOps & infrastructure. |
 | 09 | [Engineering Practices](09-engineering-practices/README.md) | Process, collaboration, version control, technical leadership. |
-| 10 | [Frameworks & Stacks](10-frameworks-and-stacks/README.md) | React Native (deep dive), Node.js, Next.js. |
+| 10 | [Frameworks & Stacks](10-frameworks-and-stacks/README.md) | Deep dives: React Native, React, Next.js, Node.js. |
 | 11 | [Applied](11-applied/README.md) | Machine learning & AI, and the web platform. |
 
 ## How notes are organized
