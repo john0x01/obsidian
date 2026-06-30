@@ -39,3 +39,7 @@
 ## Writing Good Generators
 
 ## Combining Properties into Suites
+
+## See Also
+- [[fuzzing]] — related generative approach
+- [[unit-testing]] — generative unit checks

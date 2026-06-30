@@ -47,3 +47,9 @@
 ### End-to-End Encryption
 
 ### Compliance and Retention Policies
+
+## See Also
+- [[03-computer-systems/networking/websockets|WebSockets (protocol)]] — persistent connection layer
+- [[pub-sub]] — message fan-out
+- [[message-queues]] — durable message delivery
+- [[push-notifications]] — offline delivery

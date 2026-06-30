@@ -31,3 +31,9 @@ A suggested study outline for the Next.js track. Fill each section in as you stu
 ## Deployment
 
 ### Build Output and Runtimes (Node, Edge)
+
+## See Also
+- [[node-js]] — Next.js runs on Node
+- [[frontend-performance]] — Next.js performance goals
+- [[11-applied/web-platform/core-web-vitals|Core Web Vitals]] — metrics Next.js optimizes
+- [[11-applied/web-platform/critical-rendering-path|Critical Rendering Path]] — SSR shapes first paint

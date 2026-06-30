@@ -27,3 +27,10 @@
 ## Cache Invalidation and Cache Busting
 
 ## Common Pitfalls
+
+## See Also
+- [[cdn]] — shared edge caches
+- [[caching]] — canonical caching strategies note
+- [[cdn-strategy]] — CDN caching design
+- [[content-negotiation]] — Vary header interaction
+- [[http]] — underlying protocol

@@ -45,3 +45,9 @@
 ### Integrating into SDLC
 
 ### Continuous Threat Modeling
+
+## See Also
+- [[owasp-top-10]] — common threat catalog
+- [[defense-in-depth]] — layered mitigations
+- [[secure-coding]] — prevents identified threats
+- [[zero-trust]] — threat-driven architecture

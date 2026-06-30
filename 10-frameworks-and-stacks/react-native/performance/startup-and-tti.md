@@ -39,3 +39,9 @@
 ## Diagnostics
 
 ### Startup Crash Reporting and Triage
+
+## See Also
+- [[bundle-size]] — smaller bundles start faster
+- [[metro-bundler]] — bundler controls startup payload
+- [[ios-profiling]] — profile cold-start timings
+- [[memory-management]] — startup allocations affect TTI

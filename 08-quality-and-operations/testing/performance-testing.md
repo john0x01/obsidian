@@ -33,3 +33,8 @@
 ## Performance Regression Detection in CI
 
 ## SLO-Driven Performance Testing
+
+## See Also
+- [[load-testing]] — load-focused subtype
+- [[tail-latency]] — high-percentile latency goals
+- [[benchmarking]] — measuring performance

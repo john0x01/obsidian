@@ -39,3 +39,7 @@
 ### Fuzzing APIs
 
 ## Symbolic Execution Adjacency
+
+## See Also
+- [[property-based-testing]] — related generative approach
+- [[secure-coding]] — finds input-handling bugs

@@ -35,3 +35,10 @@
 ### Real-Time Kernels (RT-Linux, RTOS)
 
 ## Hypervisors and Virtualization Layers
+
+## See Also
+- [[syscalls]] — the user/kernel boundary crossing
+- [[interrupts-and-signals]] — kernels handle interrupts
+- [[03-computer-systems/operating-systems/memory-management|Memory Management (OS)]] — a core kernel subsystem
+- [[boot-process]] — how the kernel gets loaded
+- [[containers-and-namespaces]] — namespaces are kernel isolation

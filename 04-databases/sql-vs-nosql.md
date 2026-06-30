@@ -46,3 +46,11 @@ NoSQL databases (MongoDB, DynamoDB, Cassandra, and others) are designed around a
 > Model your data around how you query it, not around relationships.
 
 Unlike relational databases, NoSQL systems lack efficient joins, so denormalization is the idiomatic approach. The trade-off is intentional: you sacrifice write simplicity in exchange for high read throughput and horizontal scalability.
+
+## See Also
+- [[relational-model]] — the SQL data model
+- [[normalization]] — normalize vs denormalize trade-off
+- [[nosql-document]] — a major NoSQL family
+- [[nosql-key-value]] — a major NoSQL family
+- [[nosql-graph]] — a major NoSQL family
+- [[nosql-columnar]] — a major NoSQL family

@@ -49,3 +49,9 @@
 ### Cross-Validation
 
 ### Ensemble as Variance Reduction
+
+## See Also
+- [[neural-networks]] — dropout, weight decay in nets
+- [[model-evaluation-metrics]] — detecting overfitting
+- [[regression]] — ridge, lasso, elastic net
+- [[supervised-learning]] — generalization goal

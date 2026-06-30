@@ -71,3 +71,9 @@ For 24–72 hours after a release — the **post-release monitoring window** —
 ## Phased Rollout Between iOS and Android
 
 Rolling out **iOS first** lets you catch server-side issues with a subset of traffic; Android's faster review makes it the natural quick-iteration platform. Or do the reverse — some teams validate on Android's 1% rollout then push iOS. The critical rule: don't ship both simultaneously without staging, because a shared bug doubles the blast radius.
+
+## See Also
+- [[fastlane]] — automates the release pipeline
+- [[ota-updates]] — ship fixes without store
+- [[ios-build-system]] — produces iOS release build
+- [[android-build-system]] — produces Android release build

@@ -24,3 +24,8 @@
 
 ### Nakamoto Consensus as BFT-Like
 ### Proof of Work vs Proof of Stake
+
+## See Also
+- [[consensus]] — canonical consensus, crash vs Byzantine faults
+- [[quorum]] — 3f+1 and quorum intersection
+- [[failure-detection]] — distinguishing fault models

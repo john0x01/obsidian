@@ -29,3 +29,8 @@
 ### Procedural vs Object-Oriented
 ### Procedural in C and Pascal
 ### Transition to Modular and OOP
+
+## See Also
+- [[imperative-programming]] — procedural as imperative subset (canonical)
+- [[object-oriented-programming]] — procedural vs object-oriented
+- [[recursion-and-tail-calls]] — call stack and local scope

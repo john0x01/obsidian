@@ -43,3 +43,9 @@
 ### Link-Time Optimization (LTO)
 
 ### Whole-Program Optimization
+
+## See Also
+- [[jit-vs-aot]] — when these optimizations run
+- [[cpu-bound-optimization]] — applying compiler flags and PGO
+- [[simd-and-vectorization]] — auto-vectorization target
+- [[benchmarking]] — verifying optimization payoff

@@ -41,3 +41,9 @@
 ### Enterprise and Brownfield Advantages
 
 ### Upgrade Path and Maintenance Considerations
+
+## See Also
+- [[react-navigation-internals]] — the JS-driven alternative
+- [[navigation-lifecycle]] — canonical screen lifecycle note
+- [[10-frameworks-and-stacks/react-native/platform-capabilities/deep-linking|Deep Linking]] — Wix deep link integration
+- [[threading-model]] — fully native navigation threads

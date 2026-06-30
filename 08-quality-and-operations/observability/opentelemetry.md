@@ -41,3 +41,10 @@
 ### OpenTelemetry Profiles Signal
 
 ### Backward Compatibility and Stability Guarantees
+
+## See Also
+- [[distributed-tracing]] — primary tracing consumer of OTel
+- [[metrics]] — OpenTelemetry Metrics signal
+- [[structured-logging]] — OpenTelemetry Logs signal
+- [[correlation-ids]] — context propagation and baggage
+- [[service-mesh]] — mesh-emitted telemetry pipelines

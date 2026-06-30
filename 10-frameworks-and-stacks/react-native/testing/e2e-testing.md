@@ -90,3 +90,9 @@ Budget 20–40% of E2E test effort for **maintenance**: updating selectors after
 ## What Not to E2E (and Why)
 
 Edge cases, error paths, complex business logic, and fine UI details are all poor E2E candidates. E2E cost scales linearly with test count, while unit and component tests scale better. Reserve E2E for login, critical checkout or submit flows, core navigation, and any flow where bugs would cost user trust. Everything else belongs in faster tests.
+
+## See Also
+- [[08-quality-and-operations/testing/end-to-end-testing|End-to-End Testing]] — general E2E concepts
+- [[detox-internals]] — RN gray-box E2E driver
+- [[maestro]] — black-box E2E driver
+- [[component-testing]] — faster lower-level tests

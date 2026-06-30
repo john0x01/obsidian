@@ -32,3 +32,10 @@
 ### Prototype-Based OOP (JavaScript, Self)
 ### Value Types in OOP
 ### OOP Critiques and Alternatives
+
+## See Also
+- [[inheritance-vs-composition]] — composition over inheritance
+- [[generics-and-polymorphism]] — subtype polymorphism
+- [[solid-principles]] — OOP design principles
+- [[imperative-programming]] — imperative patterns in OOP
+- [[procedural-programming]] — procedural vs object-oriented

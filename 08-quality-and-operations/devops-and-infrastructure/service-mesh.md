@@ -45,3 +45,11 @@
 ### Operational Complexity
 
 ### Service Mesh vs API Gateway Boundaries
+
+## See Also
+- [[kubernetes-concepts]] — common mesh deployment substrate
+- [[orchestration]] — layer the mesh sits above
+- [[microservices]] — the architecture meshes serve
+- [[api-gateways]] — north-south vs east-west boundary
+- [[06-software-design/system-design/rate-limiting|Rate Limiting (system design)]] — mesh-enforced rate limits
+- [[06-software-design/system-design/load-balancing|Load Balancing (system design)]] — mesh traffic distribution

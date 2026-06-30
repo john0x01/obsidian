@@ -67,3 +67,9 @@ A **universal binary** contains multiple CPU slices (arm64, x86_64) in one Mach-
 ## Automatic vs Manual Signing
 
 **Automatic signing** lets Xcode create and refresh profiles on demand — convenient on a dev Mac, but flaky on CI because it requires interactive Apple ID auth. **Manual signing** uses pre-downloaded profiles via `match` or similar. For any shared build environment (CI, multi-dev teams), manual signing is the production answer.
+
+## See Also
+- [[android-build-system]] — Android counterpart
+- [[autolinking]] — links native deps into build
+- [[fastlane]] — automates build and signing
+- [[releasing]] — build feeds the release

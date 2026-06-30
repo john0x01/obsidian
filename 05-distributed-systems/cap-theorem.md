@@ -25,3 +25,10 @@
 ### Relation to ACID and BASE
 ### CAP Myths and Misinterpretations
 ### Limitations of the CAP Framing
+
+## See Also
+- [[pacelc]] — extends CAP with latency
+- [[consistency-models]] — what "C" actually means
+- [[quorum]] — tuning consistency vs availability
+- [[consensus]] — achieving C under partitions
+- [[transactions-and-acid]] — relation to ACID and BASE

@@ -33,3 +33,8 @@
 ## BDD Anti-Patterns (Gherkin Abuse)
 
 ## Living Documentation from BDD
+
+## See Also
+- [[tdd]] — test-driven counterpart
+- [[acceptance-testing]] — executable acceptance criteria
+- [[end-to-end-testing]] — scenario-level checks

@@ -31,3 +31,10 @@
 
 ### Monorepo Branching Considerations
 ### Choosing a Strategy for Your Team
+
+## See Also
+- [[version-control]] — canonical version-control fundamentals
+- [[git-internals]] — branches as refs in the object model
+- [[ci-cd]] — integration friction with long branches
+- [[feature-flags]] — alternative to long-lived branches
+- [[deployment-strategies]] — release and hotfix branch flows

@@ -45,3 +45,9 @@
 ### Analytics and Click Tracking
 
 ### Geographic Distribution
+
+## See Also
+- [[caching]] — cache layer for hot redirects
+- [[sharding-strategies]] — sharding the key space
+- [[back-of-envelope-estimation]] — QPS and storage sizing
+- [[rate-limiting]] — throttling the creation API

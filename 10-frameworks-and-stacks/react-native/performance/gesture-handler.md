@@ -43,3 +43,8 @@
 ### Accessibility and Gesture Conflicts
 
 ### Testing Gestures
+
+## See Also
+- [[reanimated-worklets]] — gestures wired to worklets
+- [[thread-delegation]] — gesture handling off JS thread
+- [[animation-optimization]] — gesture-driven animation smoothness

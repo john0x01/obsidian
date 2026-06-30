@@ -33,3 +33,10 @@
 ### Backpressure and Flow Control
 
 ## WebSockets vs SSE vs Long Polling
+
+## See Also
+- [[http]] — upgrades from an HTTP handshake
+- [[tcp]] — runs over a persistent TCP connection
+- [[06-software-design/api-design/websockets|WebSockets (API)]] — API design perspective
+- [[06-software-design/api-design/server-sent-events|Server-Sent Events]] — compared push alternative
+- [[proxies-and-gateways]] — proxy handling of upgrades

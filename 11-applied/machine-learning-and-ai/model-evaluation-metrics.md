@@ -53,3 +53,10 @@
 ### Business Metrics vs ML Metrics
 
 ### Choosing the Right Metric for the Problem
+
+## See Also
+- [[classification]] — precision, recall, F1, AUC
+- [[regression]] — MSE, RMSE, MAE, R²
+- [[overfitting-and-regularization]] — train vs validation gap
+- [[evals]] — LLM-specific evaluation
+- [[bias-and-fairness]] — fairness metrics

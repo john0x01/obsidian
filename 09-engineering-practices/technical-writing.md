@@ -32,3 +32,8 @@
 ## Applied Genres
 
 ### Writing Postmortems and RFCs Well
+
+## See Also
+- [[documentation]] — types and governance of docs
+- [[rfc-and-design-docs]] — applied RFC/design-doc genre
+- [[postmortems]] — applied postmortem writing

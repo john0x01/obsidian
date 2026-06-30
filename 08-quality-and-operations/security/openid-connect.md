@@ -39,3 +39,8 @@
 ## Logout (Front-Channel, Back-Channel, RP-Initiated)
 
 ## FAPI (Financial-Grade API) Profile
+
+## See Also
+- [[oauth]] — built on OAuth 2.0
+- [[jwt]] — ID tokens are JWTs
+- [[authentication]] — federated authentication layer

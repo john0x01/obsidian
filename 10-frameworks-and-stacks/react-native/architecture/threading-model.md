@@ -49,3 +49,10 @@ public void show(String message, int duration) {
 ```
 
 The `show` method is invoked from JavaScript but runs on the native modules thread.
+
+## See Also
+- [[new-vs-old-architecture]] — how threads map to the bridge vs JSI
+- [[rendering]] — render/commit/mount across these threads
+- [[10-frameworks-and-stacks/react-native/performance/thread-delegation|Thread Delegation (RN)]] — offloading work off the JS thread
+- [[threads-and-processes]] — OS threading fundamentals
+- [[03-computer-systems/concurrency-and-parallelism/event-loops|Event Loops]] — how the JS thread schedules work

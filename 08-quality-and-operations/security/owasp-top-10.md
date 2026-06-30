@@ -35,3 +35,11 @@
 ## Secure SDLC Integration
 
 ## Evolution of the Top 10 Over Years
+
+## See Also
+- [[xss]] — injection vulnerability
+- [[csrf]] — request forgery flaw
+- [[sql-injection]] — injection vulnerability
+- [[ssrf]] — server-side request forgery
+- [[threat-modeling]] — systematic threat analysis
+- [[secure-coding]] — remediation practices

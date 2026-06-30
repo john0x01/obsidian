@@ -43,3 +43,10 @@
 ### Backend for Frontend (BFF) Pattern
 
 ### API Gateway vs Service Mesh
+
+## See Also
+- [[06-software-design/system-design/load-balancing|Load Balancing (system design)]] — request distribution behind the gateway
+- [[microservices]] — single entry point for services
+- [[08-quality-and-operations/devops-and-infrastructure/service-mesh|Service Mesh]] — east-west vs north-south traffic
+- [[authentication-and-authorization]] — edge auth
+- [[06-software-design/api-design/rate-limiting|Rate Limiting (API)]] — quotas at the edge

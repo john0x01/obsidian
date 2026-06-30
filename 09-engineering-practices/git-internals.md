@@ -32,3 +32,9 @@
 ### Remote Protocols (HTTP, SSH, Git Protocol)
 ### Shallow Clones
 ### Sparse Checkout and Partial Clone
+
+## See Also
+- [[version-control]] — canonical user-facing Git workflows
+- [[branching-strategies]] — branches as refs over the object model
+- [[hashing]] — SHA-1/SHA-256 content addressing
+- [[b-trees]] — packfile and index data structures

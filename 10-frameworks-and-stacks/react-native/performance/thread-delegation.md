@@ -21,3 +21,9 @@
 ## Avoiding Bridge and JS-Thread Congestion
 
 ## Measuring Thread Contention
+
+## See Also
+- [[threading-model]] — canonical RN threading model
+- [[reanimated-worklets]] — worklets on UI thread
+- [[gesture-handler]] — gestures bypass JS thread
+- [[startup-and-tti]] — thread work delays interactivity

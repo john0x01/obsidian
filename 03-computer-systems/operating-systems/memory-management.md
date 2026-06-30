@@ -41,3 +41,10 @@
 ### Huge Pages and Transparent Huge Pages
 
 ### cgroup Memory Limits
+
+## See Also
+- [[virtual-memory]] — hardware paging this builds on (canonical pairing)
+- [[garbage-collection]] — automatic heap reclamation
+- [[processes]] — each process gets a virtual address space
+- [[memory-hierarchy]] — swapping extends RAM to disk
+- [[containers-and-namespaces]] — cgroups cap memory per container

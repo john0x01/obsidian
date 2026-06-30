@@ -31,3 +31,10 @@
 ### Index Maintenance Cost on Writes
 ### Index Bloat and Reorganization
 ### When Not to Index
+
+## See Also
+- [[b-trees]] — dominant index structure
+- [[lsm-trees]] — write-optimized index alternative
+- [[query-optimization]] — index selection during planning
+- [[07-performance-engineering/database-performance|Database Performance]] — indexing for speed
+- [[search-engines]] — inverted indexes in depth

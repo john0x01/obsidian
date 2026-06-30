@@ -47,3 +47,9 @@
 ## Retention
 
 ### Retention Policies (Time, Size, Compacted)
+
+## See Also
+- [[pub-sub]] — publish/subscribe over streams
+- [[message-queues]] — distributed log as a queue
+- [[event-driven-architecture]] — event-driven microservices
+- [[event-sourcing]] — append-only log as source of truth

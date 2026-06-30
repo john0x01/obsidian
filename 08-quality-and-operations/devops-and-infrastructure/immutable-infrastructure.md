@@ -39,3 +39,10 @@
 ### Security Benefits
 
 ### Cost Trade-offs
+
+## See Also
+- [[infrastructure-as-code]] — declarative provisioning of images
+- [[gitops]] — reconciling declared desired state
+- [[containers]] — container immutability in practice
+- [[autoscaling]] — immutable instances scaled in/out
+- [[rollback-strategies]] — rollback via image swap

@@ -39,3 +39,11 @@
 ### Header Compression (HPACK, QPACK)
 
 ### Server Push (and Deprecation)
+
+## See Also
+- [[tcp]] — transport HTTP/1.1 and HTTP/2 ride on
+- [[quic-and-http3]] — HTTP/3 over QUIC
+- [[tls-and-ssl]] — HTTPS layers TLS under HTTP
+- [[websockets]] — upgrades from an HTTP handshake
+- [[11-applied/web-platform/http-caching|HTTP Caching]] — caching semantics in depth
+- [[06-software-design/api-design/rest|REST]] — HTTP-based API style

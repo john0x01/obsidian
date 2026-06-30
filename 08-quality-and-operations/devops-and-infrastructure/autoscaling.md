@@ -45,3 +45,10 @@
 ### Cost-Aware Autoscaling
 
 ### Autoscaling Observability
+
+## See Also
+- [[scalability]] — the broader scaling problem
+- [[06-software-design/system-design/load-balancing|Load Balancing (system design)]] — distributes traffic across scaled instances
+- [[capacity-planning]] — sizing ahead of demand
+- [[kubernetes-concepts]] — HPA/VPA/cluster autoscaler
+- [[immutable-infrastructure]] — scaling immutable instances

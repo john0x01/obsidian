@@ -45,3 +45,10 @@
 ### Tooling (EventStoreDB, Axon, Marten)
 
 ### When Event Sourcing Is the Wrong Choice
+
+## See Also
+- [[cqrs]] — frequently paired read/write split
+- [[event-driven-architecture]] — broader event paradigm
+- [[domain-driven-design]] — domain events drive the log
+- [[06-software-design/system-design/message-queues|Message Queues]] — event transport
+- [[04-databases/transactions-and-acid|Transactions and ACID]] — append-only vs mutable state

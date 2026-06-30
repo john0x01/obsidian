@@ -38,3 +38,10 @@
 ## Pitfalls
 
 ### Common Incident Anti-Patterns
+
+## See Also
+- [[postmortems]] — blameless review after the incident
+- [[on-call]] — who responds and how rotations work
+- [[debugging-production]] — diagnosing live systems
+- [[disaster-recovery]] — recovering from major failures
+- [[alerting]] — how incidents get detected

@@ -36,3 +36,9 @@
 ### Submodules and Subtrees
 ### Large File Support (Git LFS)
 ### Monorepos vs Polyrepos
+
+## See Also
+- [[git-internals]] — how Git stores commits underneath
+- [[branching-strategies]] — workflows built on version control
+- [[code-review]] — reviewing changes before merge
+- [[ci-cd]] — automating builds from commits

@@ -41,3 +41,8 @@
 ### IMDSv2 as Cloud Mitigation
 
 ## Detection via Logging and Monitoring
+
+## See Also
+- [[owasp-top-10]] — canonical vulnerability list
+- [[secure-coding]] — input-validation defense
+- [[defense-in-depth]] — network-layer mitigations

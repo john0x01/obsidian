@@ -37,3 +37,8 @@
 ## Optimization Strategies per Metric
 
 ## Pitfalls
+
+## See Also
+- [[critical-rendering-path]] — what LCP/FCP measure
+- [[frontend-performance]] — broader optimization context
+- [[real-user-monitoring]] — field data collection

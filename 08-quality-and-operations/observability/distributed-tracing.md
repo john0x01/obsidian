@@ -47,3 +47,10 @@
 ### Jaeger and Zipkin
 
 ### Storage and Retention of Traces
+
+## See Also
+- [[opentelemetry]] — canonical instrumentation standard
+- [[correlation-ids]] — request identity underpinning spans
+- [[metrics]] — trace-metric correlation via exemplars
+- [[logging]] — trace-log correlation
+- [[microservices]] — why cross-service tracing matters

@@ -39,3 +39,8 @@
 ### Subresource Integrity (SRI)
 
 ## XSS Impact (Session Theft, Keylogging, Phishing)
+
+## See Also
+- [[owasp-top-10]] — canonical vulnerability list
+- [[csrf]] — related browser-side attack
+- [[secure-coding]] — output-encoding defenses

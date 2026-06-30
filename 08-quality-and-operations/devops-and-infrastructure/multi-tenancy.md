@@ -43,3 +43,10 @@
 ### Tenant Security Boundaries
 
 ### Compliance and Data Residency per Tenant
+
+## See Also
+- [[multi-region-and-geo]] — data residency across regions
+- [[sharding-and-partitioning]] — per-tenant data isolation
+- [[06-software-design/system-design/rate-limiting|Rate Limiting (system design)]] — per-tenant rate limiting
+- [[scalability]] — noisy-neighbor and pool sizing
+- [[authorization]] — tenant security boundaries

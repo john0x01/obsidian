@@ -37,3 +37,9 @@
 ### Batching in GPU Workloads
 
 ## Monitoring Batch Effectiveness
+
+## See Also
+- [[latency-vs-throughput]] — the core batching trade-off
+- [[io-bound-optimization]] — batching to reduce syscalls/I/O
+- [[database-performance]] — batch inserts and bulk loads
+- [[network-performance]] — request coalescing and batching

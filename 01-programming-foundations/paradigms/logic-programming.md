@@ -31,3 +31,9 @@
 ### Relational vs Functional vs Logic
 ### Logic Programming in AI
 ### Use Cases (Rule Engines, Theorem Proving, NLP)
+
+## See Also
+- [[declarative-programming]] — logic as declarative subparadigm (canonical)
+- [[functional-programming]] — relational vs functional
+- [[pattern-matching]] — unification resembles matching
+- [[sql-fundamentals]] — declarative query origins

@@ -35,3 +35,9 @@
 ### Colored Functions Problem
 
 ## Common Languages (JavaScript, C#, Python, Rust, Kotlin)
+
+## See Also
+- [[futures-and-promises]] — the values async/await awaits
+- [[event-loops]] — drives single-threaded async execution
+- [[03-computer-systems/operating-systems/io-models|I/O Models]] — async I/O underpins it
+- [[01-programming-foundations/languages/javascript/execution-model/runtime|JS Runtime]] — concrete async execution model

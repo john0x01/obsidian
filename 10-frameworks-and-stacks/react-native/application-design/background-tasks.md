@@ -31,3 +31,9 @@
 ## Battery and Performance
 
 ## Debugging and Pitfalls
+
+## See Also
+- [[offline-first]] — background sync of queued mutations
+- [[10-frameworks-and-stacks/react-native/platform-capabilities/push-notifications|Push Notifications]] — wake-on-push background work
+- [[10-frameworks-and-stacks/react-native/security/secure-storage|Secure Storage]] — persisting task state safely
+- [[threading-model]] — Headless JS execution context

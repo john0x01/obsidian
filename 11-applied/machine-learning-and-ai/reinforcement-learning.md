@@ -45,3 +45,9 @@
 ### Reward Shaping and Hacking
 
 ## Applications (Games, Robotics, Recommendations)
+
+## See Also
+- [[supervised-learning]] — contrasting learning paradigm
+- [[unsupervised-learning]] — contrasting learning paradigm
+- [[llm-fundamentals]] — RLHF aligns language models
+- [[fine-tuning]] — RLHF vs DPO preference alignment

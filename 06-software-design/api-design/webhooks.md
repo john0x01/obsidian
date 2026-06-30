@@ -41,3 +41,10 @@
 ## Scaling
 
 ### Fan-Out Architecture for Publishers
+
+## See Also
+- [[idempotency]] — receiver idempotency for at-least-once delivery
+- [[event-driven-architecture]] — webhooks as HTTP event delivery
+- [[06-software-design/system-design/pub-sub|Pub/Sub]] — fan-out publishing model
+- [[06-software-design/system-design/case-study-payments|Case Study: Payments]] — payment event notifications
+- [[08-quality-and-operations/security/csrf|CSRF]] — HMAC signing and replay defense

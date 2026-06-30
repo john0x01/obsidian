@@ -45,3 +45,10 @@
 ### Caching and the Page Cache
 
 ### fsync, fdatasync, and Durability
+
+## See Also
+- [[backup-strategies]] — protecting filesystem data
+- [[io-models]] — file I/O paths and the page cache
+- [[03-computer-systems/operating-systems/memory-management|Memory Management (OS)]] — mmap and the page cache
+- [[syscalls]] — open/read/write/fsync are syscalls
+- [[write-ahead-logs]] — journaling parallels database WAL

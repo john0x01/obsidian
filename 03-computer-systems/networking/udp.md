@@ -29,3 +29,10 @@
 ## UDP Flood and Amplification Attacks
 
 ## UDP-Lite Variant
+
+## See Also
+- [[tcp]] — the reliable, connection-oriented counterpart
+- [[quic-and-http3]] — builds reliability atop UDP
+- [[dns]] — primary UDP-based protocol
+- [[sockets]] — SOCK_DGRAM API for UDP
+- [[ip-addressing-and-routing]] — UDP rides on IP

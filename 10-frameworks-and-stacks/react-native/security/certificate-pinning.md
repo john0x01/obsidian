@@ -41,3 +41,9 @@
 ## Threats and Defenses
 
 ### Bypassing Pinning (Frida, Objection) and Defenses
+
+## See Also
+- [[03-computer-systems/networking/tls-and-ssl|TLS and SSL]] — underlying transport security
+- [[08-quality-and-operations/security/certificates-and-pki|Certificates and PKI]] — trust chain pinning relies on
+- [[secure-storage]] — protects data at rest
+- [[device-attestation]] — verify client before trust

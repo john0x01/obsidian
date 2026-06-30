@@ -39,3 +39,10 @@
 ### Failover and Upstream Health
 
 ### Observability at the Proxy
+
+## See Also
+- [[03-computer-systems/networking/load-balancing|Load Balancing (network)]] — reverse proxies distribute load
+- [[tls-and-ssl]] — proxies terminate/re-encrypt TLS
+- [[http]] — proxies transform HTTP requests
+- [[06-software-design/api-design/api-gateways|API Gateways]] — gateway design in depth
+- [[08-quality-and-operations/devops-and-infrastructure/service-mesh|Service Mesh]] — sidecar proxy fabric

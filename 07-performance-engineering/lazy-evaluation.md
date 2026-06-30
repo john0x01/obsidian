@@ -35,3 +35,8 @@
 ## Strictness Annotations
 
 ## Debugging Lazy Code
+
+## See Also
+- [[memoization]] — memoizing lazy values, caching results
+- [[algorithmic-optimization]] — lazy evaluation and streaming
+- [[big-o-in-practice]] — lazy vs eager evaluation impact

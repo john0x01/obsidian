@@ -31,3 +31,10 @@
 ## Comparison with HTTP/2 over TCP
 
 ## Performance Gains in Lossy Networks
+
+## See Also
+- [[udp]] — QUIC's underlying transport
+- [[tcp]] — the protocol QUIC replaces
+- [[http]] — HTTP/3 maps onto QUIC
+- [[tls-and-ssl]] — TLS 1.3 is built into QUIC
+- [[nat-and-firewalls]] — middlebox traversal challenges

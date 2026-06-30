@@ -39,3 +39,9 @@
 ## Applications
 
 ### Use Cases (Notifications, Feeds, Progress)
+
+## See Also
+- [[06-software-design/api-design/websockets|WebSockets (API)]] — bidirectional streaming alternative
+- [[03-computer-systems/networking/http|HTTP]] — runs over plain HTTP
+- [[06-software-design/system-design/load-balancing|Load Balancing (system design)]] — proxy/balancer considerations
+- [[03-computer-systems/networking/websockets|WebSockets (protocol)]] — protocol-level comparison

@@ -47,3 +47,10 @@
 ## Economics
 
 ### Cost of Cross-Region Traffic
+
+## See Also
+- [[high-availability]] — geographic resilience
+- [[replication]] — cross-region data replication
+- [[consistency-models]] — multi-region consistency trade-offs
+- [[disaster-recovery]] — cross-region failover
+- [[03-computer-systems/networking/dns|DNS]] — GeoDNS routing

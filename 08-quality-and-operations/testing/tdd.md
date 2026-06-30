@@ -35,3 +35,9 @@
 ## TDD Critiques and Limitations
 
 ## BDD as an Evolution of TDD
+
+## See Also
+- [[bdd]] — behavior-focused variant
+- [[unit-testing]] — test-first unit workflow
+- [[acceptance-testing]] — outer feedback loop
+- [[test-doubles]] — isolate code under test

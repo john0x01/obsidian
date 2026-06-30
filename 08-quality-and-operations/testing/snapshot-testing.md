@@ -37,3 +37,7 @@
 ## Snapshots vs Assertions Trade-offs
 
 ## Tooling (Jest, Vitest, insta)
+
+## See Also
+- [[regression-testing]] — catches unexpected changes
+- [[unit-testing]] — common at unit level

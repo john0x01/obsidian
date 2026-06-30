@@ -35,3 +35,8 @@
 
 ### Consistency Within a Codebase
 ### Refactoring Toward Better Names
+
+## See Also
+- [[code-quality]] — canonical quality home for naming
+- [[refactoring]] — rename refactorings toward better names
+- [[code-smells]] — misleading names as smells

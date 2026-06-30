@@ -49,3 +49,11 @@
 ### Reactive Systems Manifesto Alignment
 
 ### Event-Driven Anti-Patterns
+
+## See Also
+- [[event-sourcing]] — persists state as an event log
+- [[cqrs]] — pairs commands with event-driven reads
+- [[06-software-design/system-design/pub-sub|Pub/Sub]] — core delivery semantics
+- [[06-software-design/system-design/message-queues|Message Queues]] — broker infrastructure
+- [[06-software-design/api-design/webhooks|Webhooks]] — event delivery over HTTP
+- [[reactive-programming]] — reactive systems alignment

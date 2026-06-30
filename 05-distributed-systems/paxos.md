@@ -29,3 +29,9 @@
 ### Implementing Paxos in Practice
 ### Paxos Made Simple vs Paxos Made Live
 ### Paxos vs Raft Comparison
+
+## See Also
+- [[consensus]] — canonical consensus overview
+- [[raft]] — alternative compared throughout
+- [[quorum]] — majority quorums in Paxos
+- [[leader-election]] — stable-leader optimization

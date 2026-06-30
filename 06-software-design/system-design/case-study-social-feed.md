@@ -45,3 +45,9 @@
 ### Abuse and Moderation Pipeline
 
 ### Analytics and Engagement Tracking
+
+## See Also
+- [[caching]] — caching feeds
+- [[sharding-strategies]] — sharding feed storage
+- [[06-software-design/api-design/server-sent-events|Server-Sent Events]] — real-time feed updates
+- [[scalability]] — fan-out scaling

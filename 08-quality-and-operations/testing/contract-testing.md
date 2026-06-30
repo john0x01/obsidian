@@ -37,3 +37,8 @@
 ## CI Integration for Contract Tests
 
 ## Pitfalls and Maintenance Burden
+
+## See Also
+- [[api-schemas]] — schemas define the contract
+- [[integration-testing]] — verifies service boundaries
+- [[end-to-end-testing]] — alternative to full E2E

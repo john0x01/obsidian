@@ -43,3 +43,11 @@
 ### Common Anti-Patterns (RPC over HTTP, Tunneling Through POST)
 
 ### Evolvability of REST APIs
+
+## See Also
+- [[graphql]] — query-language alternative
+- [[grpc]] — RPC-style binary alternative
+- [[hateoas]] — REST's hypermedia maturity level
+- [[versioning]] — evolving REST contracts
+- [[03-computer-systems/networking/http|HTTP]] — underlying protocol
+- [[11-applied/web-platform/http-caching|HTTP Caching]] — cacheability constraint

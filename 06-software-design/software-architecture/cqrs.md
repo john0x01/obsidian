@@ -41,3 +41,10 @@
 ### Complexity Cost of CQRS
 
 ### When CQRS Is Overkill
+
+## See Also
+- [[event-sourcing]] — canonical CQRS companion
+- [[event-driven-architecture]] — propagates model updates
+- [[domain-driven-design]] — task-based commands from the domain
+- [[05-distributed-systems/consistency-models|Consistency Models]] — eventual consistency between models
+- [[06-software-design/system-design/scalability|Scalability]] — scale reads and writes separately

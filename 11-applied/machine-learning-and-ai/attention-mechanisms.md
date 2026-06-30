@@ -45,3 +45,9 @@
 ## Interpretability
 
 ### Attention Visualization and Interpretability
+
+## See Also
+- [[transformers]] — attention is the core block
+- [[rnns]] — attention originated over RNNs
+- [[embeddings]] — query, key, value vectors
+- [[llm-fundamentals]] — attention drives LLMs

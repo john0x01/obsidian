@@ -45,3 +45,10 @@
 ### Policy-Based Access Control (OPA, Cedar)
 
 ### Multi-Tenant Authorization
+
+## See Also
+- [[08-quality-and-operations/security/authentication|Authentication]] — identity verification deep-dive
+- [[08-quality-and-operations/security/authorization|Authorization]] — access-control models deep-dive
+- [[08-quality-and-operations/security/oauth|OAuth]] — delegated authorization flows
+- [[08-quality-and-operations/security/jwt|JWT]] — bearer token format
+- [[api-gateways]] — auth enforced at the edge

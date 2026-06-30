@@ -37,3 +37,9 @@
 ### Actor Systems vs Thread Pools
 
 ### Comparison with CSP and Async/Await
+
+## See Also
+- [[csp-and-channels]] — alternative message-passing model
+- [[thread-pools]] — dispatchers run actors on pools
+- [[threads-and-processes]] — message passing vs shared memory
+- [[async-and-await]] — compared concurrency model

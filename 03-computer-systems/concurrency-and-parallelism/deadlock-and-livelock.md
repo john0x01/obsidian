@@ -31,3 +31,9 @@
 ## Livelock vs Deadlock
 
 ## Starvation vs Deadlock
+
+## See Also
+- [[mutexes-and-locks]] — lock ordering prevents deadlock
+- [[race-conditions]] — sibling concurrency hazard
+- [[semaphores-and-monitors]] — nested monitors cause deadlock
+- [[thread-pools]] — pool exhaustion deadlocks

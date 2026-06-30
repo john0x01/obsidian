@@ -45,3 +45,9 @@
 ### Stakeholder Engagement and Participatory Design
 
 ## Trade-offs Between Fairness and Accuracy
+
+## See Also
+- [[model-evaluation-metrics]] — fairness metrics defined
+- [[evals]] — safety and bias evaluation
+- [[embeddings]] — debiasing embeddings
+- [[classification]] — where disparate impact arises

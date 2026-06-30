@@ -31,3 +31,8 @@
 ## Interaction with Caching
 
 ## Pitfalls
+
+## See Also
+- [[http]] — underlying protocol and headers
+- [[http-caching]] — Vary header interaction
+- [[rest]] — content types in REST APIs

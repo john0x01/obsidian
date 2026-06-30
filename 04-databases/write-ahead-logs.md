@@ -36,3 +36,9 @@
 ## Comparison
 
 ### Comparison with Command Logging
+
+## See Also
+- [[transactions-and-acid]] — WAL provides durability
+- [[replication]] — WAL/log-based replication
+- [[lsm-trees]] — WAL precedes MemTable flush
+- [[mvcc]] — versioning and recovery interplay

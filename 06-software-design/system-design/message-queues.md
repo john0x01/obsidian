@@ -49,3 +49,9 @@
 ### Broker-Based (RabbitMQ, SQS, ActiveMQ)
 
 ### Brokerless / Distributed Log (Kafka)
+
+## See Also
+- [[pub-sub]] — publish/subscribe messaging
+- [[event-streaming]] — log-based streaming
+- [[event-driven-architecture]] — async messaging patterns
+- [[high-availability]] — backpressure and flow control

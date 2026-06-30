@@ -35,3 +35,10 @@
 ### TLS Termination
 
 ## Trade-offs and Pitfalls
+
+## See Also
+- [[cdn-strategy]] — canonical CDN system-design note
+- [[http-caching]] — edge caching mechanics
+- [[caching]] — general caching strategies
+- [[dns]] — DNS-based request routing
+- [[ddos-mitigation]] — CDN security feature

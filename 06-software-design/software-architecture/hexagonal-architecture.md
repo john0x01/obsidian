@@ -43,3 +43,10 @@
 ### Common Misapplications and Overhead
 
 ### When the Pattern Is Overkill
+
+## See Also
+- [[clean-architecture]] — shares the dependency rule
+- [[onion-architecture]] — concentric-layers sibling
+- [[layered-architecture]] — contrasted layering style
+- [[dependency-injection]] — wires ports to adapters
+- [[inversion-of-control]] — dependency inversion at the boundary

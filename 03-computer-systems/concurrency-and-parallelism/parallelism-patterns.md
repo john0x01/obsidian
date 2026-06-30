@@ -43,3 +43,9 @@
 ### Stencil Computation
 
 ### GPU-Friendly Patterns
+
+## See Also
+- [[amdahls-and-gustafsons-law]] — limits on parallel speedup
+- [[thread-pools]] — work-stealing and fork-join execution
+- [[csp-and-channels]] — pipeline and fan-out via channels
+- [[threads-and-processes]] — concurrency vs parallelism

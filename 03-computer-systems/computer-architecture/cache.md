@@ -31,3 +31,10 @@
 ## Cache Warm-Up
 
 ## Translation Lookaside Buffer (TLB) as a Cache
+
+## See Also
+- [[memory-hierarchy]] — cache sits in the memory hierarchy
+- [[virtual-memory]] — TLB caches address translations
+- [[cache-friendly-code]] — writing code that respects cache lines
+- [[data-locality]] — locality drives cache effectiveness
+- [[memory-bound-optimization]] — defeating cache misses and the memory wall

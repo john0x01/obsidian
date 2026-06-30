@@ -33,3 +33,11 @@
 ## Power Consumption and Thermal Design (TDP)
 
 ## Moore's Law and Dennard Scaling
+
+## See Also
+- [[instruction-set-architectures]] — the contract the CPU implements
+- [[pipelining]] — how instructions overlap in the core
+- [[branch-prediction]] — speculation feeds the pipeline
+- [[cache]] — on-die caches hide memory latency
+- [[simd-and-vectorization]] — data-parallel execution units
+- [[threads]] — SMT/hyper-threading exposes thread parallelism

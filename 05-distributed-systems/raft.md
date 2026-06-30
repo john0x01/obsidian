@@ -30,3 +30,9 @@
 
 ### Raft Implementations (etcd, Consul, TiKV)
 ### Failure Scenarios and Recovery
+
+## See Also
+- [[consensus]] — canonical consensus overview
+- [[paxos]] — alternative compared throughout
+- [[leader-election]] — Raft's election mechanism
+- [[replication-theory]] — Raft log replication

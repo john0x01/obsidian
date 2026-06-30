@@ -33,3 +33,9 @@
 ## Other Contexts
 
 ### Pairing in Interviews
+
+## See Also
+- [[code-review]] — synchronous review alternative
+- [[mentorship]] — pairing across experience levels
+- [[tdd]] — ping-pong pairing on tests
+- [[code-quality]] — pairing's quality benefits

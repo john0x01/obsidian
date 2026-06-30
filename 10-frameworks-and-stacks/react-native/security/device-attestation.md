@@ -19,3 +19,8 @@
 ## Integration with API Auth
 
 ## Limitations and Bypasses
+
+## See Also
+- [[jailbreak-root-detection]] — client-side trust signal
+- [[certificate-pinning]] — attest then pin
+- [[secure-storage]] — gate access on trust

@@ -41,3 +41,8 @@
 ### Secret Scanning (git-secrets, TruffleHog, GitHub Secret Scanning)
 
 ### Auditing Secret Access
+
+## See Also
+- [[supply-chain-security]] — protecting build credentials
+- [[cryptography-fundamentals]] — encrypting stored secrets
+- [[secure-coding]] — avoiding hardcoded secrets

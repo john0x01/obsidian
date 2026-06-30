@@ -30,3 +30,10 @@
 
 ### Closures Across Thread Boundaries
 ### Closures in Different Languages (JS, Python, Go, Rust, Swift)
+
+## See Also
+- [[higher-order-functions]] — functions returning closures
+- [[functional-programming]] — lexical scoping foundation
+- [[memoization]] — closure-based caching
+- [[runtime]] — captured variables on the heap
+- [[garbage-collector]] — closures and reachability

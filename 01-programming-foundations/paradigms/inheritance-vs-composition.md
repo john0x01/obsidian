@@ -29,3 +29,9 @@
 ### Favor Composition over Inheritance (GoF)
 ### When Inheritance Is Right
 ### Refactoring from Inheritance to Composition
+
+## See Also
+- [[object-oriented-programming]] — core OOP reuse debate (canonical)
+- [[higher-order-functions]] — behavioral composition via HOFs
+- [[solid-principles]] — Liskov substitution principle
+- [[generics-and-polymorphism]] — interface-based design

@@ -45,3 +45,10 @@
 ## Advanced Topics
 
 ### Functional Equivalents (First-Class Functions)
+
+## See Also
+- [[design-patterns-creational]] — sibling GoF category
+- [[design-patterns-structural]] — sibling GoF category
+- [[inversion-of-control]] — observer/strategy/template as IoC
+- [[06-software-design/system-design/pub-sub|Pub/Sub]] — observer vs pub-sub distinction
+- [[01-programming-foundations/paradigms/higher-order-functions|Higher-Order Functions]] — functional pattern equivalents

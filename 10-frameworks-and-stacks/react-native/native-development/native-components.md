@@ -69,3 +69,10 @@ Unit-test the native view in isolation with XCTest/Espresso, the same as any pla
 ## Performance Considerations
 
 Creating and destroying native views is expensive — recycle instead of unmounting. Prop updates are diffed per key, but large props (long strings, nested objects) still cost marshalling time. Under Fabric, minimize shadow tree depth and prefer primitive props over nested structs. Measure native view init time with Xcode Instruments (Time Profiler on the main thread) and Android's Choreographer frame stats.
+
+## See Also
+- [[native-modules]] — the non-UI counterpart
+- [[codegen]] — generates component descriptors
+- [[rendering]] — Fabric shadow tree and mounting
+- [[yoga]] — layout vs custom measurement
+- [[turbo-modules]] — shared new-arch foundation

@@ -33,3 +33,10 @@
 ### Raw Sockets
 
 ## Error Handling (EAGAIN, EWOULDBLOCK, EPIPE)
+
+## See Also
+- [[tcp]] — SOCK_STREAM exposes TCP
+- [[udp]] — SOCK_DGRAM exposes UDP
+- [[ipc]] — Unix domain sockets are IPC
+- [[03-computer-systems/operating-systems/io-models|I/O Models]] — blocking vs non-blocking, epoll
+- [[03-computer-systems/operating-systems/syscalls|Syscalls]] — socket calls are syscalls

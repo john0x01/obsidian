@@ -63,3 +63,9 @@ Test in order: smoke-test a dev build → run the full unit test suite → run t
 ## Upgrade in Monorepos
 
 **Monorepo** RN upgrades touch many apps at once if they share the RN version. Sequence: upgrade one app first, verify, then propagate to siblings. Shared native libraries (a C++ TurboModule used by multiple apps) must version-bump atomically to stay compatible. Monorepos amplify upgrade pain but also make it tractable — tests run across all consumers.
+
+## See Also
+- [[autolinking]] — upgrades change autolinking
+- [[ota-updates]] — version bumps gate OTA
+- [[ios-build-system]] — upgrades touch iOS build
+- [[android-build-system]] — upgrades touch Android build

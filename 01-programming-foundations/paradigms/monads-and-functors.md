@@ -30,3 +30,10 @@
 ### Monads in Non-FP Languages
 ### Practical Use Cases Without the Math
 ### Why "Monad" Is Intimidating Terminology
+
+## See Also
+- [[functional-programming]] — monads as effect abstraction (canonical)
+- [[pure-functions]] — managing effects purely
+- [[higher-order-functions]] — bind and map are HOFs
+- [[pattern-matching]] — destructuring Maybe/Either
+- [[futures-and-promises]] — Promises as monad-like

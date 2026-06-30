@@ -33,3 +33,10 @@
 ## Time and Space Complexity
 
 ## Use-Cases
+
+## See Also
+- [[binary-search-trees]] — ordered specialization of binary trees
+- [[traversals]] — DFS and BFS over binary trees
+- [[graphs]] — trees are acyclic connected graphs
+- [[recursion]] — natural recursive structure
+- [[linked-lists]] — linked node representation

@@ -27,3 +27,10 @@
 ## Protocol Data Units at Each Layer (Frame, Packet, Segment)
 
 ## Why Real Networks Don't Strictly Follow OSI
+
+## See Also
+- [[ethernet-and-link-layer]] — data link layer realized
+- [[ip-addressing-and-routing]] — network layer realized
+- [[tcp]] — transport layer realized
+- [[udp]] — transport layer alternative
+- [[http]] — application layer protocol

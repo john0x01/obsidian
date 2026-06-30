@@ -51,3 +51,10 @@
 ### React Concurrent Rendering / Suspense Performance
 
 ### Hydration Costs and Islands Architecture
+
+## See Also
+- [[core-web-vitals]] — LCP, INP, CLS metrics
+- [[critical-rendering-path]] — render-blocking and paint timing
+- [[http-caching]] — service worker and asset caching
+- [[network-performance]] — asset delivery and protocol tuning
+- [[cdn]] — edge delivery of static assets

@@ -45,3 +45,10 @@
 ### Protobuf Schema Evolution
 
 ### Comparison with REST and GraphQL
+
+## See Also
+- [[rest]] — resource-oriented alternative
+- [[graphql]] — query-language alternative
+- [[api-schemas]] — protobuf IDL contract
+- [[versioning]] — protobuf schema evolution
+- [[03-computer-systems/networking/quic-and-http3|QUIC and HTTP/3]] — HTTP/2 transport lineage

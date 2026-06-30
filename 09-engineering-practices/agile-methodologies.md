@@ -34,3 +34,8 @@
 ### Agile vs Waterfall
 ### Dark Scrum and Agile Anti-Patterns
 ### Agile Critiques and Post-Agile Movements
+
+## See Also
+- [[scrum-and-kanban]] — concrete agile frameworks in depth
+- [[estimation]] — velocity and forecasting for planning
+- [[ci-cd]] — continuous delivery as an agile enabler

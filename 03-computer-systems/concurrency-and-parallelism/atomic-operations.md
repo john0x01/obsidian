@@ -33,3 +33,10 @@
 ### Contention Scaling Issues
 
 ### False Sharing in Atomics
+
+## See Also
+- [[lock-free-programming]] — atomics are its foundation
+- [[memory-ordering]] — defines visibility of atomic ops
+- [[mutexes-and-locks]] — alternative to atomic synchronization
+- [[race-conditions]] — atomics remedy read-modify-write races
+- [[03-computer-systems/computer-architecture/cache|Cache]] — coherence drives atomic costs

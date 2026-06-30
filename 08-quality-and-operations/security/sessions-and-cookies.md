@@ -39,3 +39,8 @@
 ### Session Storage on Client (localStorage, IndexedDB) vs Cookies
 
 ## Cross-Domain Session Sharing
+
+## See Also
+- [[authentication]] — maintains login state
+- [[csrf]] — exploits ambient cookies
+- [[jwt]] — stateless session alternative

@@ -36,3 +36,10 @@ Pushes the promise callback to the micro-task queue.
 ### Task Queue
 
 ### Micro-task Queue
+
+## See Also
+- [[event-loops]] — event loop and task queues
+- [[async-and-await]] — async syntax over the runtime
+- [[futures-and-promises]] — micro-task queue callbacks
+- [[garbage-collector]] — heap memory reclamation
+- [[closures]] — captured variables live on heap

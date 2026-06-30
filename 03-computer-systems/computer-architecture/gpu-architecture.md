@@ -35,3 +35,10 @@
 ### Rasterization Pipeline
 
 ### Compute Shaders vs Graphics Shaders
+
+## See Also
+- [[simd-and-vectorization]] — SIMT generalizes SIMD across warps
+- [[cpu]] — contrasting latency- vs throughput-oriented designs
+- [[memory-hierarchy]] — GPUs have their own memory hierarchy
+- [[ml-infrastructure]] — GPUs power deep learning training
+- [[deep-learning]] — tensor cores accelerate neural nets

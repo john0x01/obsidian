@@ -74,3 +74,7 @@ For field debugging on user devices (with consent), some apps embed an **in-app 
 ### Secure Debug Flag Gating
 
 All of the above should be off in release. Relying on `__DEV__` works, but a single `if (someVar)` bypass committed by accident breaks the invariant. Safer is **build-variant separation** (dev, staging, and prod targets each explicitly enable or disable features) plus a pre-release lint that fails on debug flags enabled in prod configs.
+
+## See Also
+- [[ios-profiling]] — deep iOS profiling
+- [[android-profiling]] — deep Android profiling

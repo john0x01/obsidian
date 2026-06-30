@@ -39,3 +39,10 @@
 ### Gang Scheduling
 
 ## Context Switch Overhead
+
+## See Also
+- [[processes]] — schedulable units of work
+- [[threads]] — threads are what modern schedulers dispatch
+- [[03-computer-systems/networking/load-balancing|Load Balancing (network)]] — analogous balancing across cores
+- [[cpu]] — multicore and affinity drive scheduling
+- [[io-models]] — I/O-bound vs CPU-bound workloads

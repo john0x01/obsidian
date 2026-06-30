@@ -27,3 +27,10 @@
 ## Time and Space Complexity
 
 ## Use-Cases
+
+## See Also
+- [[binary-trees]] — the base structure BSTs specialize
+- [[traversals]] — in-order traversal yields sorted order
+- [[array-searching]] — binary search analog in a tree
+- [[hash-maps]] — ordered map alternative to hashing
+- [[b-trees]] — disk-friendly balanced search tree

@@ -27,3 +27,9 @@
 ## Time and Space Complexity
 
 ## Use-Cases (Deduplication and Membership)
+
+## See Also
+- [[hash-tables]] — canonical structure underlying hash sets
+- [[hash-maps]] — sibling structure with values
+- [[binary-search-trees]] — tree set ordered alternative
+- [[graphs]] — visited-set during traversal

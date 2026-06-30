@@ -87,3 +87,9 @@ Senior teams assign **memory budgets** per screen — feed X MB, chat Y MB — a
 ## Dev Mode vs Release Memory Differences
 
 Dev builds pin the RN Dev Menu, Flipper hooks, hot-reload machinery, source maps, and unminified JS all in memory, so a dev build can use 2–3× the memory of release. Never benchmark memory on a dev build. Use release or profile-configured builds — the Xcode "Release" scheme, or the Android `release` variant with debugging symbols if needed — for any number that matters.
+
+## See Also
+- [[03-computer-systems/operating-systems/memory-management|Memory Management (OS)]] — underlying OS memory model
+- [[list-and-virtualization]] — windowing caps memory
+- [[image-pipeline]] — image caches dominate memory
+- [[re-renders]] — leaked closures retain memory

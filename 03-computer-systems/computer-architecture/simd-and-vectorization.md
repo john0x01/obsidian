@@ -33,3 +33,10 @@
 ## Use Cases (DSP, Graphics, Crypto, ML)
 
 ## Performance Pitfalls (Unaligned Loads, Branchy Code)
+
+## See Also
+- [[cpu]] — SIMD units sit inside the CPU pipeline
+- [[gpu-architecture]] — SIMT is the GPU analog of SIMD
+- [[instruction-set-architectures]] — SIMD ships as ISA extensions
+- [[data-locality]] — alignment and contiguous data feed vectors
+- [[cpu-bound-optimization]] — vectorization as a speedup technique

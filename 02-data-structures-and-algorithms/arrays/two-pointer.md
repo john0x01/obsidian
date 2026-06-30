@@ -23,3 +23,10 @@
 ## Time and Space Complexity
 
 ## Common Problems and Pitfalls
+
+## See Also
+- [[sliding-window]] — generalizes the two-pointer idea
+- [[array-searching]] — converging search on sorted data
+- [[array-sorting]] — the sorted-array prerequisite
+- [[linked-lists]] — fast and slow pointers for cycles
+- [[algorithmic-optimization]] — reduces nested loops

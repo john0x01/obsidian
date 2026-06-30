@@ -41,3 +41,9 @@
 ### Analytics Pattern (Track on Focus, Not Mount)
 
 ### Deferred Work and Cancellation on Blur
+
+## See Also
+- [[react-navigation-internals]] — focus/blur state mechanics
+- [[react-native-navigation-wix]] — native lifecycle equivalents
+- [[10-frameworks-and-stacks/react-native/platform-capabilities/deep-linking|Deep Linking]] — entry that drives navigation
+- [[router]] — Expo Router lifecycle layer

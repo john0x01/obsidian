@@ -35,3 +35,9 @@
 ## Tiered Storage of Compiled Code
 
 ## JIT Security Risks (W^X, Spectre)
+
+## See Also
+- [[compilation-optimization]] — the optimizations compilers apply
+- [[tail-latency]] — JIT warm-up stalls as a tail source
+- [[benchmarking]] — JIT warm-up skews measurements
+- [[garbage-collector]] — managed runtimes pair JIT with GC

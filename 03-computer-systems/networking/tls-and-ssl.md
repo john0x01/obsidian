@@ -35,3 +35,10 @@
 ## Perfect Forward Secrecy
 
 ## Downgrade and Protocol Attacks (POODLE, BEAST, Heartbleed)
+
+## See Also
+- [[08-quality-and-operations/security/certificates-and-pki|Certificates and PKI]] — trust chain behind TLS
+- [[network-security]] — TLS is baseline defense
+- [[http]] — HTTPS layers TLS under HTTP
+- [[quic-and-http3]] — embeds TLS 1.3
+- [[08-quality-and-operations/security/symmetric-encryption|Symmetric Encryption]] — bulk cipher in TLS

@@ -25,3 +25,10 @@
 ## API Routes
 
 ## Migration and Pitfalls
+
+## See Also
+- [[react-navigation-internals]] — the library Router wraps
+- [[10-frameworks-and-stacks/react-native/platform-capabilities/deep-linking|Deep Linking]] — file routes map to URLs
+- [[navigation-lifecycle]] — screen focus/blur behavior
+- [[workflows]] — Expo project context
+- [[eas]] — building and shipping the app

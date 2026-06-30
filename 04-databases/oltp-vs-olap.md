@@ -29,3 +29,10 @@
 ## Hybrid Processing
 
 ### HTAP (Hybrid Transactional/Analytical Processing)
+
+## See Also
+- [[data-warehousing]] — the canonical OLAP system
+- [[nosql-columnar]] — column storage for OLAP
+- [[normalization]] — normalized OLTP vs star schemas
+- [[indexing]] — differing index strategies
+- [[transactions-and-acid]] — OLTP transaction guarantees

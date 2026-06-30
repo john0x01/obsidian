@@ -12,3 +12,10 @@ Self-check questions for the JavaScript track.
 ## Language & Runtime
 
 1. (Add topics as you study them — closures, prototypes, modules, async/await, etc.)
+
+## See Also
+- [[runtime]] — the execution model under test
+- [[garbage-collector]] — answers GC reclamation question
+- [[event-loops]] — task vs micro-task queues
+- [[futures-and-promises]] — Promise callback ordering
+- [[closures]] — closures study topic

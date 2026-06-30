@@ -37,3 +37,10 @@
 ### Brute Force Protection (Rate Limiting, Lockout)
 
 ### Credential Stuffing Defense
+
+## See Also
+- [[authorization]] — follows authentication
+- [[sessions-and-cookies]] — maintains auth state
+- [[jwt]] — token-based auth
+- [[oauth]] — delegated authentication
+- [[authentication-and-authorization]] — API-layer treatment

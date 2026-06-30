@@ -34,3 +34,10 @@
 ## Geographic Distribution
 
 ### Cross-Region Replication
+
+## See Also
+- [[replication-theory]] — canonical distributed-systems treatment
+- [[sharding-and-partitioning]] — the complementary scaling axis
+- [[write-ahead-logs]] — log shipping for replication
+- [[05-distributed-systems/consistency-models|Consistency Models]] — replica consistency guarantees
+- [[05-distributed-systems/quorum|Quorum]] — leaderless read/write quorums

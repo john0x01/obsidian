@@ -37,3 +37,10 @@
 ### Approximation Algorithms for Speed
 
 ### Probabilistic Data Structures (Bloom, Count-Min, HyperLogLog)
+
+## See Also
+- [[big-o-in-practice]] — complexity choices in the real world
+- [[array-sorting]] — sorting/searching strategy selection
+- [[memoization]] — caching computed results
+- [[lazy-evaluation]] — deferring and streaming work
+- [[cpu-bound-optimization]] — algorithm choice precedes micro-tuning

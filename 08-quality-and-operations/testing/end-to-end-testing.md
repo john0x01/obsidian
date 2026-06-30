@@ -39,3 +39,9 @@
 ## E2E as Smoke Tests
 
 ## E2E Test Anti-Patterns
+
+## See Also
+- [[test-pyramid]] — top of the pyramid
+- [[integration-testing]] — lower layer
+- [[acceptance-testing]] — user-facing validation
+- [[e2e-testing]] — platform-specific E2E

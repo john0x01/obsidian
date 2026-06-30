@@ -42,3 +42,9 @@
 ## Implementations
 
 ### Elasticsearch, OpenSearch, Solr Architectures
+
+## See Also
+- [[vector-databases]] — semantic search counterpart
+- [[indexing]] — inverted indexes in general indexing
+- [[embeddings]] — vectors behind semantic search
+- [[06-software-design/system-design/case-study-search-engine|Case Study: Search Engine]] — applied design

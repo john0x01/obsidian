@@ -74,3 +74,9 @@ Three SDK levels govern the build: **`compileSdkVersion`** is the SDK your code 
 ## Baseline Profiles for Startup
 
 A **baseline profile** is a list of "hot" code paths compiled ahead-of-time when the app is installed, reducing JIT warm-up time on first run. Generate one via Macrobenchmark and ship it in `src/main/baseline-prof.txt`. A good baseline profile can shave 20–40% off cold-start time — measurably worth it for TTI-sensitive apps.
+
+## See Also
+- [[ios-build-system]] — iOS counterpart
+- [[autolinking]] — links native deps into build
+- [[fastlane]] — automates build and signing
+- [[releasing]] — build feeds the release

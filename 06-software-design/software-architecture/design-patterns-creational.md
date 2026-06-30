@@ -39,3 +39,9 @@
 ## Advanced Topics
 
 ### Creational Patterns in Functional Languages
+
+## See Also
+- [[design-patterns-structural]] — sibling GoF category
+- [[design-patterns-behavioral]] — sibling GoF category
+- [[dependency-injection]] — DI as object-creation concern
+- [[inversion-of-control]] — service locator comparison

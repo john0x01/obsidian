@@ -73,3 +73,10 @@ Good fits: libsodium wrappers, MLKit / Core ML inference loops, Protobuf/FlatBuf
 ## Testing C++ Cores
 
 The C++ core should be testable without RN — link it into a separate CMake test target using GoogleTest or Catch2. Test business logic there, reserving RN-integration tests for the JSI boundary and platform glue. This gives fast, non-UI tests that run on the development machine and catch most bugs before a device build is needed. Coverage instrumentation (`gcov`/`lcov`) works on the standalone target.
+
+## See Also
+- [[jsi]] — the C++ API this builds on
+- [[turbo-modules]] — C++ modules are TurboModules
+- [[native-modules]] — platform-language alternative
+- [[codegen]] — generates the spec headers
+- [[threading-model]] — runtime thread affinity rules

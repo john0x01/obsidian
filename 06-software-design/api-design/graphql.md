@@ -47,3 +47,10 @@
 ## Comparison
 
 ### GraphQL vs REST Trade-offs
+
+## See Also
+- [[rest]] — resource-oriented alternative
+- [[grpc]] — binary RPC alternative
+- [[api-schemas]] — SDL as the contract
+- [[06-software-design/api-design/websockets|WebSockets (API)]] — transport for subscriptions
+- [[pagination]] — Relay connection conventions

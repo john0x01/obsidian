@@ -45,3 +45,9 @@
 ### Analytics (Delivered, Opened, Clicked)
 
 ### Compliance (GDPR, CAN-SPAM, TCPA)
+
+## See Also
+- [[pub-sub]] — fan-out to channels
+- [[message-queues]] — delivery pipeline and retries
+- [[push-notifications]] — push delivery mechanics
+- [[rate-limiting]] — per-user throttling

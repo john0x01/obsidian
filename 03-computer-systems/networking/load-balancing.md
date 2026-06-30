@@ -35,3 +35,10 @@
 ### Connection Draining and Graceful Shutdown
 
 ### Cascading Failure and Retry Storms
+
+## See Also
+- [[06-software-design/system-design/load-balancing|Load Balancing (system design)]] — canonical scaling view
+- [[proxies-and-gateways]] — reverse proxies do LB
+- [[dns]] — DNS-based load balancing
+- [[tls-and-ssl]] — TLS termination at the LB
+- [[tcp]] — L4 balancing operates on TCP

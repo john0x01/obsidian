@@ -67,3 +67,8 @@ Downloads are chunked; a mid-download network failure resumes on next launch (EA
 ## Multi-Channel (Staging, Prod, Canary) Strategies
 
 Use **channels** as a dimension orthogonal to binary versions. A single binary can be pointed at staging for QA, canary for 1% of production, or full prod — channel-switching requires no rebuild. Map channels to environments, test thoroughly in staging, and canary for a percentage before full prod promotion. Name channels explicitly — `prod` vs `production` confusion is a real footgun.
+
+## See Also
+- [[releasing]] — complements store releases
+- [[rn-version-upgrades]] — native bumps break OTA
+- [[bundle-size]] — OTA ships the JS bundle

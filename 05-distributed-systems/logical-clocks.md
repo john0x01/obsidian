@@ -29,3 +29,9 @@
 
 ### Conflict Resolution
 ### Distributed Snapshots
+
+## See Also
+- [[message-ordering]] — happens-before drives causal ordering
+- [[consistency-models]] — causal consistency basis
+- [[replication-theory]] — vector clocks for conflict resolution
+- [[crdts]] — version vectors in CRDTs

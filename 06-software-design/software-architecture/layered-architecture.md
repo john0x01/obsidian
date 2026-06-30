@@ -41,3 +41,10 @@
 ## Comparisons
 
 ### Comparison with Hexagonal / Clean Architecture
+
+## See Also
+- [[clean-architecture]] — refines layering with dependency rule
+- [[hexagonal-architecture]] — ports-and-adapters alternative
+- [[onion-architecture]] — inverts the layer dependencies
+- [[coupling-and-cohesion]] — layer boundaries manage coupling
+- [[mvc-mvp-mvvm]] — presentation-layer patterns

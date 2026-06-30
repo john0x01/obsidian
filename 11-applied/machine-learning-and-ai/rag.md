@@ -51,3 +51,11 @@
 ### Caching in RAG Pipelines
 
 ### Data Freshness and Indexing Pipelines
+
+## See Also
+- [[embeddings]] — vectors for retrieval
+- [[vector-databases]] — vector store backend
+- [[search-engines]] — hybrid BM25 retrieval
+- [[llm-fundamentals]] — generation half of RAG
+- [[prompt-engineering]] — context packing
+- [[evals]] — faithfulness and relevance

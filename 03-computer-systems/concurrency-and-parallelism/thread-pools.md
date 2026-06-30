@@ -37,3 +37,9 @@
 ### Graceful Shutdown
 
 ### Deadlock from Pool Exhaustion
+
+## See Also
+- [[parallelism-patterns]] — work-stealing, fork-join, master-worker
+- [[threads-and-processes]] — the resources pools manage
+- [[futures-and-promises]] — executors expose pools via futures
+- [[deadlock-and-livelock]] — pool exhaustion deadlocks

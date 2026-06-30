@@ -26,3 +26,9 @@
 ### Multi-Leader Configurations
 ### Leaderless Systems and Coordination
 ### Costs of Leader Change
+
+## See Also
+- [[consensus]] — consensus-based election
+- [[raft]] — election process in Raft
+- [[paxos]] — leader role in Multi-Paxos
+- [[failure-detection]] — heartbeats trigger elections

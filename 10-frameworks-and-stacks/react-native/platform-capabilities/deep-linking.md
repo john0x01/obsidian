@@ -21,3 +21,9 @@
 ## Testing Deep Links
 
 ## Security Considerations
+
+## See Also
+- [[navigation-lifecycle]] — links resolve into navigation
+- [[router]] — Expo Router handles deep links
+- [[push-notifications]] — notifications open deep links
+- [[widgets]] — widgets deep-link into app

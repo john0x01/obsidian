@@ -31,3 +31,9 @@
 
 ### Generic Code Bloat Trade-offs
 ### Generics in Type-Erased Runtimes
+
+## See Also
+- [[type-systems]] — polymorphism within the type system (canonical)
+- [[object-oriented-programming]] — subtype polymorphism
+- [[inheritance-vs-composition]] — interface-based design
+- [[functional-programming]] — higher-kinded types, type classes

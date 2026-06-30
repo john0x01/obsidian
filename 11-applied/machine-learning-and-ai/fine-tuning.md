@@ -45,3 +45,10 @@
 ## Model Merging (Task Vectors, TIES, DARE)
 
 ## When Fine-Tuning Is Worse Than Prompting + RAG
+
+## See Also
+- [[llm-fundamentals]] — base models being tuned
+- [[prompt-engineering]] — cheaper alternative
+- [[rag]] — retrieval alternative
+- [[reinforcement-learning]] — RLHF vs DPO
+- [[evals]] — evaluation during tuning

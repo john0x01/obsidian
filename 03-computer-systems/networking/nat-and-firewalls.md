@@ -33,3 +33,9 @@
 ### DMZ Architecture
 
 ### Rate Limiting and Flood Protection at the Firewall
+
+## See Also
+- [[ip-addressing-and-routing]] — NAT rewrites IP addresses
+- [[network-security]] — firewalls are a core defense
+- [[quic-and-http3]] — NAT traversal challenges
+- [[proxies-and-gateways]] — WAF overlaps app-layer filtering

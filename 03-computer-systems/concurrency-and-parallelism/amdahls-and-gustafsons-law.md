@@ -33,3 +33,8 @@
 ## Implications for Hardware Design
 
 ## Applying the Laws to Real Profiling
+
+## See Also
+- [[parallelism-patterns]] — patterns these laws bound
+- [[threads-and-processes]] — concurrency vs parallelism context
+- [[03-computer-systems/computer-architecture/memory-hierarchy|Memory Hierarchy]] — bandwidth limits scaling

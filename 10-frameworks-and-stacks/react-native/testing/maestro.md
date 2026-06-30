@@ -41,3 +41,8 @@
 ### Comparison with Detox
 
 ### Best-Fit Use Cases (Smoke, Critical Path)
+
+## See Also
+- [[e2e-testing]] — Maestro is an E2E tool
+- [[detox-internals]] — gray-box alternative
+- [[deep-linking]] — drives flows via deep links

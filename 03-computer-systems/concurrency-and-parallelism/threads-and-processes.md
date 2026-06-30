@@ -37,3 +37,10 @@
 ### GIL and Its Implications (Python, Ruby)
 
 ### Per-Core Pinning Strategies
+
+## See Also
+- [[threads]] — OS thread internals (canonical)
+- [[processes]] — OS process internals (canonical)
+- [[03-computer-systems/operating-systems/scheduling|Scheduling]] — how the OS dispatches them
+- [[03-computer-systems/operating-systems/ipc|IPC]] — inter-process communication
+- [[thread-pools]] — managing reusable threads

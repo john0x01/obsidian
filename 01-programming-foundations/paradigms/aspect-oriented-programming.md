@@ -32,3 +32,9 @@
 ### Debugging Challenges in AOP
 ### Performance Impact
 ### Testability Trade-offs
+
+## See Also
+- [[higher-order-functions]] — FP alternative to AOP
+- [[object-oriented-programming]] — cross-cutting concerns in OOP
+- [[design-patterns-structural]] — decorator pattern comparison
+- [[inversion-of-control]] — interceptors and middleware

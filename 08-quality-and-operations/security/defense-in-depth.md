@@ -37,3 +37,9 @@
 ### Blast Radius Reduction
 
 ### Reducing Single Points of Compromise
+
+## See Also
+- [[threat-modeling]] — identifies layers needed
+- [[zero-trust]] — complementary layered model
+- [[secure-coding]] — application-layer defense
+- [[owasp-top-10]] — common threats to layer against

@@ -43,3 +43,9 @@
 ### Reserved vs On-Demand Capacity
 
 ### Cost-Aware Capacity Planning
+
+## See Also
+- [[back-of-envelope-estimation]] — input estimates for planning
+- [[scalability]] — scaling to meet capacity
+- [[high-availability]] — headroom and DR capacity
+- [[multi-region-and-geo]] — multi-region capacity distribution

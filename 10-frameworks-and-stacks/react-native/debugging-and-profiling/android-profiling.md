@@ -103,3 +103,9 @@ An **ANR** ("Application Not Responding") fires when the main thread is blocked 
 ## Debugging Release Builds on Android
 
 To profile a **release build**, add `android:debuggable="true"` to the release manifest temporarily (never ship this) or use a `profileable` variant (API 29+, production-safe). Symbolicate native crashes with `ndk-stack` or Play Console's automatic symbolication. JS symbolication needs source maps uploaded to the crash reporter — verify they are landing post-CI.
+
+## See Also
+- [[ios-profiling]] — iOS counterpart
+- [[devtools]] — general debugging tooling
+- [[startup-and-tti]] — profile cold-start
+- [[10-frameworks-and-stacks/react-native/performance/memory-management|Memory Management (RN)]] — profile memory growth

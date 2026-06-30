@@ -23,3 +23,8 @@
 ### CRDTs vs OT (Operational Transformation)
 ### Yjs and Automerge for Collaborative Editing
 ### Use Cases (Shopping Carts, Collaborative Docs, Presence)
+
+## See Also
+- [[consistency-models]] — strong eventual consistency
+- [[replication-theory]] — CRDT-based replication
+- [[logical-clocks]] — version vectors and causality

@@ -45,3 +45,9 @@
 ## Observability
 
 ### Observability for Cache Performance
+
+## See Also
+- [[cdn]] — canonical CDN note
+- [[caching]] — caching strategies overview
+- [[http-caching]] — HTTP cache-control semantics
+- [[multi-region-and-geo]] — edge and geo distribution

@@ -39,3 +39,8 @@
 ### Quick Sanity Checks
 
 ### Estimation in Interview Settings
+
+## See Also
+- [[capacity-planning]] — applying estimates to capacity
+- [[scalability]] — scaling decisions from estimates
+- [[high-availability]] — headroom and resilience targets

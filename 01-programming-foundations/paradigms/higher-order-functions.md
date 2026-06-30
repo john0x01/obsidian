@@ -30,3 +30,10 @@
 ### HOFs vs Loops Readability
 ### HOF Performance Characteristics
 ### Debugging HOF Pipelines
+
+## See Also
+- [[functional-programming]] — core FP technique (canonical)
+- [[closures]] — functions returning functions capture state
+- [[pure-functions]] — composing pure functions
+- [[monads-and-functors]] — map/flatMap as HOFs
+- [[aspect-oriented-programming]] — HOFs as AOP alternative

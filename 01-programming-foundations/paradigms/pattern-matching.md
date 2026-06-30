@@ -31,3 +31,9 @@
 ### Pattern Matching vs if/else Chains
 ### Pattern Matching in Error Handling
 ### Performance of Pattern Matching
+
+## See Also
+- [[functional-programming]] — ADTs and pattern matching
+- [[type-systems]] — sum types and exhaustiveness
+- [[monads-and-functors]] — destructuring Maybe/Either
+- [[recursion-and-tail-calls]] — matching on recursive data

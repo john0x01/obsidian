@@ -17,3 +17,8 @@
 ## Limitations
 
 ## Deep Linking from Widgets
+
+## See Also
+- [[native-components]] — widgets are native UI
+- [[deep-linking]] — widgets deep-link into app
+- [[background-tasks]] — widgets refresh in background

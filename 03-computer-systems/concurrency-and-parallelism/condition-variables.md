@@ -35,3 +35,9 @@
 ### Design Patterns (Barrier, Latch, Gate)
 
 ## Condition Variables vs Event Objects
+
+## See Also
+- [[mutexes-and-locks]] — condition variables require an associated mutex
+- [[semaphores-and-monitors]] — monitors embed condition variables
+- [[race-conditions]] — lost/spurious wakeups are timing hazards
+- [[deadlock-and-livelock]] — missed signals can stall threads

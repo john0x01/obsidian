@@ -43,3 +43,9 @@
 ### Dual-Writing During Migration
 
 ### Observability per Shard
+
+## See Also
+- [[sharding-and-partitioning]] — canonical DB sharding note
+- [[partitioning]] — distributed partitioning
+- [[scalability]] — sharding for write scale
+- [[replication]] — replication alongside sharding

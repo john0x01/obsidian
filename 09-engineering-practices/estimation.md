@@ -32,3 +32,7 @@
 ## Alternatives
 
 ### #NoEstimates Movement
+
+## See Also
+- [[scrum-and-kanban]] — story points and velocity in practice
+- [[agile-methodologies]] — iterative planning context

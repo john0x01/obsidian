@@ -41,3 +41,10 @@
 ### Scaling Horizontally (Pub/Sub Backplanes)
 
 ### Observability for WebSocket APIs
+
+## See Also
+- [[server-sent-events]] — one-way streaming alternative
+- [[03-computer-systems/networking/websockets|WebSockets (protocol)]] — underlying protocol mechanics
+- [[06-software-design/api-design/rate-limiting|Rate Limiting (API)]] — limits on persistent connections
+- [[authentication-and-authorization]] — auth on upgrade
+- [[06-software-design/system-design/pub-sub|Pub/Sub]] — horizontal scaling backplane

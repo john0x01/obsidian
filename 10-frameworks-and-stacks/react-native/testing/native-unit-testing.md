@@ -39,3 +39,8 @@
 ### Continuous Execution on CI
 
 ### Coverage for Mixed JS/Native Code
+
+## See Also
+- [[component-testing]] — covers the JS half
+- [[e2e-testing]] — broader end-to-end flows
+- [[ios-build-system]] — tests run in native build

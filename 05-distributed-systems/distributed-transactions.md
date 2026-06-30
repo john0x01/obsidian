@@ -26,3 +26,9 @@
 ### Percolator Transactions
 ### Google Spanner Transactions
 ### Calvin Deterministic Transactions
+
+## See Also
+- [[two-phase-commit]] — core atomic commit protocol
+- [[transactions-and-acid]] — single-node ACID foundation
+- [[consistency-models]] — serializability and isolation
+- [[consensus]] — consensus-backed commit

@@ -87,3 +87,9 @@ Enable the **Perf Monitor** (dev menu → Show Perf Monitor) to see JS and UI FP
 ## FlatList vs FlashList Decision
 
 Use **`FlatList`** when items have extremely variable trees, you need maximum compatibility, or you can't add a dependency. Use **FlashList** when the list is long (>50 items of similar structure), you care about scroll smoothness on low-end Android, or mount-cost spikes show up in profiling. For chat and feeds, FlashList almost always wins.
+
+## See Also
+- [[re-renders]] — list items re-render heavily
+- [[image-pipeline]] — list cells load images
+- [[animation-optimization]] — smooth scroll needs 60fps
+- [[memory-management]] — windowing bounds memory

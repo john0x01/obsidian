@@ -27,3 +27,9 @@
 ## Branchless Code Techniques
 
 ## Spectre and Branch Prediction Attacks
+
+## See Also
+- [[pipelining]] — mispredictions cause pipeline flushes
+- [[cpu]] — speculative and out-of-order execution
+- [[cache]] — Spectre leaks via cache side channels
+- [[cpu-bound-optimization]] — branchless code as an optimization

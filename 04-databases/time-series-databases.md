@@ -34,3 +34,9 @@
 ## Use Cases
 
 ### Use Cases (Metrics, IoT, Finance)
+
+## See Also
+- [[nosql-columnar]] — columnar storage fits time-series
+- [[data-warehousing]] — adjacent analytical store
+- [[sharding-and-partitioning]] — time-based partitioning
+- [[08-quality-and-operations/observability/metrics|Metrics]] — primary TSDB consumer

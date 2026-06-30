@@ -30,3 +30,9 @@
 
 ### Performance Implications
 ### Debugging with Immutable Data
+
+## See Also
+- [[pure-functions]] — immutability enables purity
+- [[functional-programming]] — persistent data structures
+- [[event-sourcing]] — append-only immutable event log
+- [[immutable-infrastructure]] — same principle for infra

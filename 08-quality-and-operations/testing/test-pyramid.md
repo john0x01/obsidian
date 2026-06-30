@@ -39,3 +39,9 @@
 ### Pyramid Critics and Alternatives
 
 ### Pyramid per Team vs per System
+
+## See Also
+- [[unit-testing]] — broad base layer
+- [[integration-testing]] — middle layer
+- [[end-to-end-testing]] — narrow top layer
+- [[test-doubles]] — isolate units in the base

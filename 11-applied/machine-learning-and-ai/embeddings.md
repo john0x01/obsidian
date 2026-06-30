@@ -47,3 +47,10 @@
 ### Fine-Tuning Embeddings
 
 ## Evaluation (MTEB, BEIR)
+
+## See Also
+- [[vector-databases]] — storing and indexing embeddings
+- [[search-engines]] — embedding-based retrieval
+- [[transformers]] — contextual embedding models
+- [[rag]] — embeddings power retrieval
+- [[clustering]] — grouping by vector similarity

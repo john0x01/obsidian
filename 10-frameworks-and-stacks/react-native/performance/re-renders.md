@@ -67,3 +67,9 @@ Switching tabs or pushing a screen mounts a large tree at once; this rarely show
 ## Concurrent Rendering Implications
 
 React 18 concurrent features work under the New Architecture. `Suspense` boundaries show fallback UI while lazy-loaded screens fetch JS bundles or data, replacing ad-hoc loading state. `useTransition` marks updates non-urgent — a typeahead search that updates results via `startTransition` keeps the input responsive. One caveat: Reanimated worklets run outside React entirely, so concurrent boundaries don't affect them, and gesture-driven animations are always "urgent" by construction.
+
+## See Also
+- [[reanimated-worklets]] — worklets bypass React reconciliation
+- [[list-and-virtualization]] — lists trigger frequent re-renders
+- [[memory-management]] — leaked renders retain memory
+- [[animation-optimization]] — render churn drops frames

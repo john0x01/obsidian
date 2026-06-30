@@ -69,3 +69,9 @@ Calling `setState` from a worklet requires `runOnJS(setX)(value)`, which fires a
 ## Performance Ceiling vs the Animated API
 
 Legacy `Animated` with `useNativeDriver: true` also runs on the native side, but only for a fixed set of props (transforms, opacity). Reanimated worklets animate *anything* computable, including layout props that the legacy driver rejects. The ceiling is the UI thread itself — too many simultaneous worklet animations will jank it. If frame drops appear only with many concurrent animations, profile with Xcode Instruments (Time Profiler on the UI thread) or `systrace`.
+
+## See Also
+- [[gesture-handler]] — gestures drive worklet animations
+- [[thread-delegation]] — worklets run off JS thread
+- [[animation-optimization]] — worklets are the optimization tool
+- [[re-renders]] — worklets avoid render cycles

@@ -39,3 +39,10 @@
 ### DNS Caching
 
 ## Compression Trade-offs
+
+## See Also
+- [[cpu-bound-optimization]] — sibling bottleneck class
+- [[memory-bound-optimization]] — sibling bottleneck class
+- [[io-models]] — async I/O models (epoll, kqueue, io_uring)
+- [[network-performance]] — network-side I/O tuning
+- [[batching]] — buffering and batching I/O

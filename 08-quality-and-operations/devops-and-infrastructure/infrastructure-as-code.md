@@ -45,3 +45,10 @@
 ### Testing IaC (Terratest, Kitchen-Terraform)
 
 ### GitOps Integration
+
+## See Also
+- [[immutable-infrastructure]] — replace-not-mutate philosophy
+- [[gitops]] — Git as source of truth for infra
+- [[configuration-management]] — overlapping config tooling
+- [[environments]] — disposable environments via IaC
+- [[secret-management]] — handling secrets in IaC

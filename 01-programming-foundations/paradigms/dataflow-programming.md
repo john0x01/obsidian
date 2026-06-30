@@ -30,3 +30,10 @@
 ## Trade-offs
 
 ### Debugging Dataflow Graphs
+
+## See Also
+- [[reactive-programming]] — FRP and stream overlap
+- [[event-driven-programming]] — async dataflow dispatch
+- [[declarative-programming]] — what-not-how dataflow
+- [[functional-programming]] — pure dataflow nodes
+- [[event-streaming]] — stream processing frameworks

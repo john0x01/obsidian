@@ -17,3 +17,9 @@
 ## When to Use Each
 
 ## Trade-Offs
+
+## See Also
+- [[eas]] — cloud builds for these workflows
+- [[router]] — Expo Router app structure
+- [[10-frameworks-and-stacks/react-native/build-and-deploy/autolinking|Autolinking]] — native deps in prebuild
+- [[native-modules]] — Expo Modules API alternative

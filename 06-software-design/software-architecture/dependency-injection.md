@@ -43,3 +43,10 @@
 ### Service Locator Anti-Pattern Comparison
 
 ### Over-Injection and God Constructors
+
+## See Also
+- [[inversion-of-control]] — canonical parent concept of DI
+- [[solid-principles]] — concrete expression of the DIP
+- [[coupling-and-cohesion]] — reduces compile-time coupling
+- [[design-patterns-creational]] — factories as DI alternative
+- [[hexagonal-architecture]] — wires adapters to ports

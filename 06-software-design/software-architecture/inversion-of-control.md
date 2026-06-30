@@ -41,3 +41,9 @@
 ## Pitfalls
 
 ### IoC Misconceptions and Overuse
+
+## See Also
+- [[dependency-injection]] — most common form of IoC
+- [[solid-principles]] — formalized as the DIP
+- [[design-patterns-behavioral]] — template/strategy/observer as IoC
+- [[aspect-oriented-programming]] — cross-cutting via IoC

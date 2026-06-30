@@ -27,3 +27,9 @@
 ## Structured Concurrency Integration
 
 ## Language Implementations (JS, Scala, Java, Rust, Python)
+
+## See Also
+- [[async-and-await]] — syntax sugar over futures
+- [[event-loops]] — resolves and schedules promise callbacks
+- [[thread-pools]] — executors backing futures
+- [[01-programming-foundations/paradigms/reactive-programming|Reactive Programming]] — hot/cold observables compared

@@ -31,3 +31,9 @@
 ### SQL Standard vs Vendor Implementations
 ### Choosing an Isolation Level
 ### Performance vs Correctness Trade-offs
+
+## See Also
+- [[transactions-and-acid]] — isolation is the I in ACID
+- [[mvcc]] — implements snapshot isolation
+- [[locking]] — lock-based isolation enforcement
+- [[05-distributed-systems/consistency-models|Consistency Models]] — distributed analog

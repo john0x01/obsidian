@@ -43,3 +43,10 @@
 ### Soft vs Hard Limits
 
 ### Bypass for Trusted Clients
+
+## See Also
+- [[06-software-design/system-design/rate-limiting|Rate Limiting (system design)]] — canonical system-design treatment
+- [[06-software-design/system-design/case-study-rate-limiter|Case Study: Rate Limiter]] — worked design example
+- [[api-gateways]] — common enforcement point
+- [[error-handling]] — 429 and Retry-After responses
+- [[08-quality-and-operations/security/ddos-mitigation|DDoS Mitigation]] — abuse-prevention overlap

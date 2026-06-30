@@ -46,3 +46,11 @@ The sequence below traces how a React Native app starts on iOS, from process lau
 ## Concepts
 
 - JS engine operations are only safe on the JS thread.
+
+## See Also
+- [[new-vs-old-architecture]] — canonical architecture overview
+- [[jsi]] — the install() binding mechanism
+- [[hermes]] — the HermesRuntime constructed at boot
+- [[turbo-modules]] — what installs JSI bindings here
+- [[threading-model]] — why JSI is JS-thread-only
+- [[10-frameworks-and-stacks/react-native/review-questions|RN Review Questions]] — self-test on architecture

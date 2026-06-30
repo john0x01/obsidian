@@ -29,3 +29,8 @@
 ### Rebalancing Strategies (Fixed Partitions, Dynamic Partitioning)
 ### Repartitioning During Live Traffic
 ### Cross-Partition Operations and Scatter-Gather
+
+## See Also
+- [[sharding-and-partitioning]] — database sharding (canonical)
+- [[sharding-strategies]] — system-design sharding patterns
+- [[replication-theory]] — replication complements partitioning

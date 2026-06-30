@@ -35,3 +35,8 @@
 ## Stakeholder Involvement
 
 ## Sign-Off Process
+
+## See Also
+- [[bdd]] — executable acceptance criteria
+- [[tdd]] — outer feedback loop
+- [[end-to-end-testing]] — user-facing validation

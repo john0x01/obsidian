@@ -31,3 +31,11 @@
 
 ### Long-Running Transactions Pitfalls
 ### Autonomous Transactions
+
+## See Also
+- [[isolation-levels]] — the I in ACID, in depth
+- [[locking]] — enforcing isolation via locks
+- [[mvcc]] — lock-free isolation mechanism
+- [[write-ahead-logs]] — durability and crash recovery
+- [[two-phase-commit]] — atomicity across nodes
+- [[distributed-transactions]] — ACID across services

@@ -45,3 +45,9 @@
 ### Multi-Tier LB Topologies
 
 ### SSL Termination Placement
+
+## See Also
+- [[03-computer-systems/networking/load-balancing|Load Balancing (network)]] — canonical lower-level note
+- [[scalability]] — horizontal scaling enabler
+- [[high-availability]] — health checks and failover
+- [[03-computer-systems/networking/dns|DNS]] — DNS-based and GSLB routing

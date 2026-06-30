@@ -43,3 +43,9 @@
 ## Hotspot Identification
 
 ## Attribution to Code and Team
+
+## See Also
+- [[benchmarking]] — measure after profiling finds hotspots
+- [[cpu-bound-optimization]] — acting on CPU profile findings
+- [[cache-friendly-code]] — profiling cache misses (perf, VTune)
+- [[memory-bound-optimization]] — allocation and memory profiling targets

@@ -43,3 +43,9 @@
 ### Secure Clipboard Handling
 
 ### Backup Exclusion (Android allowBackup, iOS NSURLIsExcludedFromBackupKey)
+
+## See Also
+- [[certificate-pinning]] — protects data in transit
+- [[jailbreak-root-detection]] — compromised OS breaks storage
+- [[device-attestation]] — trust the device first
+- [[08-quality-and-operations/security/secret-management|Secret Management]] — where app secrets live

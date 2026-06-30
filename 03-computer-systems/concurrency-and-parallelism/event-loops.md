@@ -27,3 +27,10 @@
 ## Event Loop Lag Measurement
 
 ## Common Pitfalls (Blocking the Loop, Unhandled Rejections)
+
+## See Also
+- [[async-and-await]] — async tasks run on the loop
+- [[futures-and-promises]] — microtask queue resolves promises
+- [[03-computer-systems/operating-systems/io-models|I/O Models]] — readiness drives the loop
+- [[01-programming-foundations/languages/javascript/execution-model/runtime|JS Runtime]] — concrete event loop implementation
+- [[01-programming-foundations/paradigms/event-driven-programming|Event-Driven Programming]] — the paradigm it realizes

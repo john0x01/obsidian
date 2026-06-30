@@ -35,3 +35,10 @@
 ### Linux Capabilities
 
 ### seccomp and Syscall Filtering
+
+## See Also
+- [[interrupts-and-signals]] — syscalls trap via software interrupts
+- [[kernel-architectures]] — the user/kernel boundary they cross
+- [[io-models]] — io_uring is an async syscall mechanism
+- [[instruction-set-architectures]] — the ABI builds on the ISA
+- [[containers-and-namespaces]] — seccomp filters confine syscalls

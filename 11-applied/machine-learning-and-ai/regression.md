@@ -49,3 +49,10 @@
 ### Bayesian Regression
 
 ### Time-Series Regression
+
+## See Also
+- [[supervised-learning]] — parent learning paradigm
+- [[classification]] — sibling supervised task
+- [[loss-functions]] — MSE, MAE, Huber losses
+- [[overfitting-and-regularization]] — ridge, lasso, elastic net
+- [[model-evaluation-metrics]] — regression metrics detail

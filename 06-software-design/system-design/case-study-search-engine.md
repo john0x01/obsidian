@@ -45,3 +45,9 @@
 ### Storage Tiers (Hot, Warm, Cold)
 
 ### Operational Concerns (Index Rebuild, Fault Tolerance)
+
+## See Also
+- [[search-engines]] — canonical search-engine note
+- [[sharding-strategies]] — sharded indexes
+- [[caching]] — caching frequent queries
+- [[indexing]] — index data structures

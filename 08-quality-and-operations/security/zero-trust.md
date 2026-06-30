@@ -41,3 +41,9 @@
 ### Zero Trust for Data and APIs
 
 ## Challenges in Legacy Environments
+
+## See Also
+- [[defense-in-depth]] — complementary layered model
+- [[authorization]] — continuous authorization
+- [[authentication]] — strong identity verification
+- [[threat-modeling]] — threat-driven architecture

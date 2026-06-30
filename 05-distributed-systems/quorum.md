@@ -26,3 +26,9 @@
 ### Cross-Region Quorums
 ### Quorum in Dynamo-Style Systems
 ### Quorum in Raft
+
+## See Also
+- [[replication-theory]] — quorum-based replication (canonical)
+- [[consistency-models]] — R+W>N for strong consistency
+- [[consensus]] — quorum intersection in consensus
+- [[cap-theorem]] — quorum availability in partitions

@@ -37,3 +37,10 @@
 ## TLB Misses and Huge Pages
 
 ## Profiling Cache Misses (perf, VTune)
+
+## See Also
+- [[data-locality]] — canonical note on locality principles
+- [[memory-bound-optimization]] — broader memory-bottleneck context
+- [[cache]] — hardware cache fundamentals
+- [[memory-hierarchy]] — why cache levels matter
+- [[branch-prediction]] — branch-prediction-friendly code

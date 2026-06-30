@@ -39,3 +39,8 @@
 ### Over-Mocking Anti-Pattern
 
 ## Test Double Libraries (Mockito, Sinon, Moq, Mockery)
+
+## See Also
+- [[unit-testing]] — isolate the unit under test
+- [[integration-testing]] — stub external dependencies
+- [[test-pyramid]] — enable fast lower layers

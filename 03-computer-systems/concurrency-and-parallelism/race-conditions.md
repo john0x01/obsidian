@@ -37,3 +37,10 @@
 ### Tools for Race Detection (ThreadSanitizer, Helgrind)
 
 ### Examples in Real Systems (Counters, Caches, Singletons)
+
+## See Also
+- [[mutexes-and-locks]] — locks serialize critical sections
+- [[atomic-operations]] — atomics remedy read-modify-write races
+- [[memory-ordering]] — reordering exposes races
+- [[deadlock-and-livelock]] — sibling concurrency hazard
+- [[01-programming-foundations/paradigms/immutability|Immutability]] — eliminates shared mutable state

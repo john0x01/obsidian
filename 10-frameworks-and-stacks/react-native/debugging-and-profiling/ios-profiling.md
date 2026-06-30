@@ -92,3 +92,9 @@ The **simulator** runs x86_64 (Intel) or arm64 (Apple Silicon) — not the devic
 ### Debugging Release-Config Builds
 
 Debug builds have optimizations off, extra tracing on, and `__DEV__` checks live. For representative performance, profile **Release builds**. Create a "Profile" scheme that uses the Release configuration but keeps debug symbols — that is what Product → Profile uses by default. Do not optimize based on Debug numbers; they represent a different workload.
+
+## See Also
+- [[android-profiling]] — Android counterpart
+- [[devtools]] — general debugging tooling
+- [[startup-and-tti]] — profile cold-start
+- [[10-frameworks-and-stacks/react-native/performance/memory-management|Memory Management (RN)]] — profile memory growth

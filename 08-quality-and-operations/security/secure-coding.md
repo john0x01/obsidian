@@ -45,3 +45,10 @@
 ### SAST in CI
 
 ### Secure Code Review Checklists
+
+## See Also
+- [[owasp-top-10]] — vulnerabilities to avoid
+- [[threat-modeling]] — informs secure design
+- [[xss]] — input-handling defense
+- [[sql-injection]] — input-handling defense
+- [[defense-in-depth]] — application-layer defense

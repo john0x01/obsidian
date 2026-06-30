@@ -41,3 +41,10 @@
 ## Adoption
 
 ### Transition Strategies From Unstructured Logs
+
+## See Also
+- [[logging]] — canonical logging fundamentals
+- [[log-aggregation]] — indexing structured fields downstream
+- [[correlation-ids]] — contextual fields for request tracing
+- [[opentelemetry]] — OpenTelemetry Logs signal
+- [[naming-conventions]] — field naming consistency

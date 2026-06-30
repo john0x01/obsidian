@@ -29,3 +29,11 @@
 ### Use Cases (Configuration, Locks, Commits)
 ### Cost of Consensus Rounds
 ### Geographic Considerations
+
+## See Also
+- [[paxos]] — foundational consensus algorithm
+- [[raft]] — understandable consensus algorithm
+- [[leader-election]] — leader-based consensus
+- [[byzantine-fault-tolerance]] — consensus under Byzantine faults
+- [[quorum]] — quorum intersection in consensus
+- [[replication-theory]] — consensus as state-machine replication

@@ -27,3 +27,9 @@
 
 ### Communicating Debt to Non-Technical Stakeholders
 ### Preventing Debt Accumulation
+
+## See Also
+- [[code-smells]] — code-level debt indicators
+- [[refactoring]] — incremental debt paydown
+- [[code-quality]] — canonical quality baseline
+- [[estimation]] — negotiating debt vs features

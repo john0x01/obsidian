@@ -35,3 +35,10 @@
 ### Signal Masks and sigprocmask
 
 ### Reentrancy and Async-Signal-Safe Functions
+
+## See Also
+- [[syscalls]] — syscalls enter the kernel via traps
+- [[processes]] — signals are delivered to processes
+- [[io-models]] — interrupts drive I/O completion
+- [[kernel-architectures]] — interrupt handling lives in the kernel
+- [[ipc]] — signals as a lightweight IPC mechanism

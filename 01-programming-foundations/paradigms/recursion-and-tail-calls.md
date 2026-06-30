@@ -30,3 +30,10 @@
 ## Advanced Topics
 
 ### Corecursion and Infinite Structures
+
+## See Also
+- [[functional-programming]] — recursion over iteration
+- [[recursion]] — recursion as DS&A technique (canonical)
+- [[pattern-matching]] — base/recursive case dispatch
+- [[imperative-programming]] — loops vs recursion
+- [[memoization]] — memoized recursion

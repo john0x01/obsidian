@@ -47,3 +47,8 @@
 ## Observability
 
 ### Metrics and Observability
+
+## See Also
+- [[rate-limiting]] — rate-limiting concepts and algorithms
+- [[06-software-design/api-design/rate-limiting|Rate Limiting (API)]] — API-level rate limiting
+- [[high-availability]] — handling Redis failure gracefully

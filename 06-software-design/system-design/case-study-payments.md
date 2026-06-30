@@ -47,3 +47,9 @@
 ### Risk and Fraud Checks
 
 ### Multi-Processor Routing
+
+## See Also
+- [[idempotency]] — idempotency keys for retries
+- [[distributed-transactions]] — saga and multi-step consistency
+- [[transactions-and-acid]] — ledger consistency guarantees
+- [[event-sourcing]] — immutable audit log model

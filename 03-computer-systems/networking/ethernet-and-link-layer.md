@@ -29,3 +29,8 @@
 ## Power over Ethernet (PoE)
 
 ## Wi-Fi (802.11) as a Link Layer
+
+## See Also
+- [[osi-and-tcp-ip-models]] — link layer in the model
+- [[ip-addressing-and-routing]] — ARP bridges IP to MAC
+- [[nat-and-firewalls]] — segmentation builds on VLANs

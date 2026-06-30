@@ -34,3 +34,10 @@
 ## Consumption
 
 ### Data Modeling for Self-Service BI
+
+## See Also
+- [[oltp-vs-olap]] — warehouses serve OLAP workloads
+- [[nosql-columnar]] — columnar storage behind MPP warehouses
+- [[normalization]] — star schemas vs normalized models
+- [[sharding-and-partitioning]] — warehouse partitioning/clustering
+- [[time-series-databases]] — adjacent analytical store

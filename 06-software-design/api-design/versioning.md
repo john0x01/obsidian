@@ -41,3 +41,10 @@
 ### Parallel Hosting of Versions
 
 ### Client Migration Strategies
+
+## See Also
+- [[api-schemas]] — schema evolution rules and compatibility
+- [[rest]] — URI/header versioning of REST APIs
+- [[graphql]] — field-level evolution alternative
+- [[grpc]] — protobuf schema evolution
+- [[webhooks]] — versioning event payloads

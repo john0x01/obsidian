@@ -45,3 +45,10 @@
 ### Rollback via Git Revert
 
 ### Observability of GitOps Controllers
+
+## See Also
+- [[infrastructure-as-code]] — declarative infra GitOps reconciles
+- [[immutable-infrastructure]] — desired-state, replace-not-mutate
+- [[kubernetes-concepts]] — Argo/Flux target clusters
+- [[ci-cd]] — push-based delivery contrast
+- [[secret-management]] — sealed secrets and SOPS

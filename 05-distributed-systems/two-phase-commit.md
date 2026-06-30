@@ -26,3 +26,8 @@
 ### Sagas
 ### Percolator Transactions
 ### XA Transactions and Distributed Transactions
+
+## See Also
+- [[distributed-transactions]] — canonical parent; sagas and alternatives
+- [[transactions-and-acid]] — ACID guarantees 2PC enforces
+- [[consensus]] — atomic commit vs consensus

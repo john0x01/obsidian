@@ -41,3 +41,10 @@
 ### Algorithm Confusion Attacks
 
 ### Common JWT Security Mistakes
+
+## See Also
+- [[authentication]] — token-based auth
+- [[oauth]] — common access-token format
+- [[openid-connect]] — ID tokens are JWTs
+- [[sessions-and-cookies]] — stateless session alternative
+- [[digital-signatures]] — signed token integrity

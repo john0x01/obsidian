@@ -45,3 +45,10 @@
 ## Operational Concerns
 
 ### Maintenance and Flakiness
+
+## See Also
+- [[real-user-monitoring]] — passive real-traffic counterpart
+- [[core-web-vitals]] — performance targets probed
+- [[end-to-end-testing]] — scripted journeys overlap
+- [[anomaly-detection]] — detecting synthetic regressions
+- [[alerting]] — alerting on probe failures

@@ -33,3 +33,10 @@
 ## Performance
 
 ### Lock Contention Hotspots
+
+## See Also
+- [[isolation-levels]] — locks enforce isolation
+- [[mvcc]] — lock-free concurrency alternative
+- [[transactions-and-acid]] — concurrency control context
+- [[03-computer-systems/concurrency-and-parallelism/deadlock-and-livelock|Deadlock and Livelock]] — general deadlock theory
+- [[03-computer-systems/concurrency-and-parallelism/mutexes-and-locks|Mutexes and Locks]] — in-memory locking

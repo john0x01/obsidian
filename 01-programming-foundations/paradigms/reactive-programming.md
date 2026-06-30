@@ -31,3 +31,10 @@
 
 ### Comparison with Async / Promises
 ### Reactive Databases and Live Queries
+
+## See Also
+- [[event-driven-programming]] — push-based event handling
+- [[dataflow-programming]] — streams as dataflow graphs
+- [[declarative-programming]] — declarative reactive flow
+- [[futures-and-promises]] — comparison with async
+- [[event-streaming]] — stream processing at scale

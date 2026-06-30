@@ -43,3 +43,10 @@
 ### State-Space Models (Mamba, S4)
 
 ### Linear Attention Alternatives
+
+## See Also
+- [[deep-learning]] — parent architecture family
+- [[transformers]] — successor for sequences
+- [[attention-mechanisms]] — attention over RNNs
+- [[cnns]] — sibling architecture
+- [[neural-networks]] — underlying building blocks

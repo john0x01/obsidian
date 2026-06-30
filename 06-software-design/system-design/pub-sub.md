@@ -45,3 +45,8 @@
 ## Implementations
 
 ### Popular Implementations (Kafka, Google Pub/Sub, SNS, NATS)
+
+## See Also
+- [[message-queues]] — queue vs pub/sub semantics
+- [[event-streaming]] — log-based distribution
+- [[event-driven-architecture]] — decoupled event patterns

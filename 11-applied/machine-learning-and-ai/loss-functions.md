@@ -47,3 +47,10 @@
 ### Loss Smoothing (Label Smoothing)
 
 ### Numerical Stability (Log-Sum-Exp)
+
+## See Also
+- [[gradient-descent]] — minimizes the loss
+- [[neural-networks]] — loss drives backprop
+- [[classification]] — cross-entropy, focal loss
+- [[regression]] — MSE, MAE, Huber
+- [[model-evaluation-metrics]] — loss vs evaluation metrics

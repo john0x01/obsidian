@@ -47,3 +47,10 @@
 ## Beyond Language
 
 ### Transformers Beyond Language (ViT, Audio, Protein)
+
+## See Also
+- [[attention-mechanisms]] — self-attention core
+- [[llm-fundamentals]] — transformers power LLMs
+- [[deep-learning]] — parent architecture family
+- [[rnns]] — predecessor for sequences
+- [[embeddings]] — token and positional embeddings

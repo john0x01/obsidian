@@ -53,3 +53,10 @@
 ### Autoscaling (HPA, VPA, Cluster Autoscaler)
 
 ### Operators and Custom Resources
+
+## See Also
+- [[orchestration]] — the general problem Kubernetes solves
+- [[containers]] — pods wrap containers
+- [[service-mesh]] — sidecar networking layer
+- [[gitops]] — declarative cluster management
+- [[autoscaling]] — HPA, VPA, cluster autoscaler

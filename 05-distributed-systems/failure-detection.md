@@ -23,3 +23,8 @@
 ### Detecting Slow Nodes vs Dead Nodes
 ### Grey Failures
 ### Fencing to Handle Mis-Detected Failures
+
+## See Also
+- [[gossip-protocols]] — gossip-based detection (canonical mechanism)
+- [[leader-election]] — heartbeats and election triggers
+- [[consensus]] — timeouts in consensus liveness

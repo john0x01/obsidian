@@ -37,3 +37,9 @@
 ### Semaphore Starvation
 
 ### Priority Semaphores
+
+## See Also
+- [[mutexes-and-locks]] — monitors wrap an implicit mutex
+- [[condition-variables]] — monitors embed them
+- [[deadlock-and-livelock]] — nested monitors risk deadlock
+- [[parallelism-patterns]] — solves producer-consumer, readers-writers

@@ -41,3 +41,10 @@
 ### Schema Evolution Rules
 
 ### Forward vs Backward Compatibility
+
+## See Also
+- [[versioning]] — schema evolution drives versioning
+- [[rest]] — OpenAPI describes REST contracts
+- [[graphql]] — SDL as the schema language
+- [[grpc]] — protobuf IDL contracts
+- [[event-driven-architecture]] — AsyncAPI for event schemas

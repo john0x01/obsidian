@@ -39,3 +39,9 @@
 ### Use Cases Where HATEOAS Shines
 
 ### Tooling and Client Support
+
+## See Also
+- [[rest]] — HATEOAS is REST's top maturity level
+- [[graphql]] — schema-driven discovery alternative
+- [[versioning]] — hypermedia decouples clients from URIs
+- [[pagination]] — link-based navigation conventions

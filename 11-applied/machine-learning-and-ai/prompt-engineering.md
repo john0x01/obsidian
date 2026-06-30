@@ -51,3 +51,9 @@
 ### Prompt Versioning and Testing
 
 ### Model-Specific Prompt Idioms
+
+## See Also
+- [[llm-fundamentals]] — models being prompted
+- [[rag]] — retrieval vs context stuffing
+- [[fine-tuning]] — alternative to prompting
+- [[evals]] — testing prompt quality

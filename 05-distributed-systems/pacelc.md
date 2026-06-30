@@ -24,3 +24,8 @@
 ### Tunable Consistency in the PACELC Lens
 ### Implications for Geo-Distributed Systems
 ### PACELC as a Design Conversation Tool
+
+## See Also
+- [[cap-theorem]] — the canonical theorem PACELC extends
+- [[consistency-models]] — the consistency end of the trade-off
+- [[replication-theory]] — latency from replica placement

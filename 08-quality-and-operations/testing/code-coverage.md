@@ -35,3 +35,8 @@
 ### Goodhart's Law and Coverage
 
 ## Mutation Testing as a Quality Complement
+
+## See Also
+- [[mutation-testing]] — deeper effectiveness measure
+- [[unit-testing]] — coverage of unit tests
+- [[test-pyramid]] — where coverage concentrates

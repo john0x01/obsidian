@@ -33,3 +33,10 @@
 ### Overapplication and Abstraction Bloat
 
 ### SOLID vs YAGNI Tension
+
+## See Also
+- [[coupling-and-cohesion]] — SRP and the cohesion goal
+- [[dependency-injection]] — applies the DIP
+- [[inversion-of-control]] — DIP at the architecture level
+- [[design-patterns-behavioral]] — OCP via strategy/template
+- [[clean-architecture]] — built on these principles

@@ -41,3 +41,8 @@
 ### Least Privilege Database Accounts
 
 ### Web Application Firewalls (WAF) Role
+
+## See Also
+- [[owasp-top-10]] — canonical vulnerability list
+- [[secure-coding]] — parameterized-query defense
+- [[sql-fundamentals]] — underlying SQL concepts

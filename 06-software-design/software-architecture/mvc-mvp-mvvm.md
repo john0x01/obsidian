@@ -37,3 +37,9 @@
 ### Testability Comparison
 
 ### Choosing Between Them
+
+## See Also
+- [[layered-architecture]] — presentation layer context
+- [[design-patterns-behavioral]] — observer underpins data binding
+- [[coupling-and-cohesion]] — separation-of-concerns goal
+- [[01-programming-foundations/paradigms/reactive-programming|Reactive Programming]] — MVVM/Flux data flow

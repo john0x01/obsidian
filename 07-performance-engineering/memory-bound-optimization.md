@@ -43,3 +43,11 @@
 ### NUMA Locality
 
 ### Memory Compression
+
+## See Also
+- [[cpu-bound-optimization]] — sibling bottleneck class
+- [[io-bound-optimization]] — sibling bottleneck class
+- [[data-locality]] — canonical note on locality optimization
+- [[cache-friendly-code]] — cache-aware layout and access
+- [[memory-hierarchy]] — bandwidth and the memory wall
+- [[garbage-collection]] — reducing GC allocation pressure

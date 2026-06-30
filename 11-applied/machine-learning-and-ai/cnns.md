@@ -45,3 +45,9 @@
 ### Object Detection Heads (YOLO, Faster R-CNN, DETR)
 
 ### Semantic Segmentation (U-Net, DeepLab)
+
+## See Also
+- [[deep-learning]] — parent architecture family
+- [[neural-networks]] — underlying building blocks
+- [[rnns]] — sibling sequence architecture
+- [[transformers]] — vision transformers compared

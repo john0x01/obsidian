@@ -41,3 +41,10 @@
 ## Security
 
 ### Exposing vs Hiding Internal Details
+
+## See Also
+- [[rest]] — HTTP status code semantics
+- [[06-software-design/api-design/rate-limiting|Rate Limiting (API)]] — 429 rate-limit errors
+- [[idempotency]] — idempotency conflict errors
+- [[authentication-and-authorization]] — authn vs authz errors
+- [[08-quality-and-operations/observability/correlation-ids|Correlation IDs]] — trace IDs in error responses

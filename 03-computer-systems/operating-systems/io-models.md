@@ -37,3 +37,10 @@
 ### Batching and Pipelining I/O
 
 ### Kernel Bypass (DPDK, SPDK)
+
+## See Also
+- [[io-bound-optimization]] — practical tuning of I/O-bound code
+- [[event-loops]] — reactor pattern built on epoll/kqueue
+- [[syscalls]] — io_uring and read/write are syscalls
+- [[scheduling]] — I/O-bound vs CPU-bound workloads
+- [[async-and-await]] — async I/O surfaced to application code

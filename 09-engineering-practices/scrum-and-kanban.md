@@ -31,3 +31,7 @@
 
 ### Choosing Between Scrum and Kanban
 ### Scrum's Critics (Cargo-Cult Scrum)
+
+## See Also
+- [[agile-methodologies]] — canonical agile context for both
+- [[estimation]] — story points, velocity, planning poker

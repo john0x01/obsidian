@@ -37,3 +37,10 @@
 ## Source Routing
 
 ## IPv4 to IPv6 Transition (Dual Stack, Tunneling, NAT64)
+
+## See Also
+- [[nat-and-firewalls]] — NAT eases IPv4 exhaustion
+- [[dns]] — maps names to IP addresses
+- [[ethernet-and-link-layer]] — ARP bridges IP to MAC
+- [[osi-and-tcp-ip-models]] — IP at the network layer
+- [[tcp]] — rides atop IP

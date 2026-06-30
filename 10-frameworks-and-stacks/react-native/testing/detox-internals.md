@@ -75,3 +75,8 @@ Configure **artifacts** in `detox.config.js`: `artifacts.types.screenshot = 'fai
 ## Limitations and When to Reach for Maestro
 
 Detox assumes RN — if you're migrating away or have a mixed native/RN app, gray-box integration gets messy. **Maestro** is black-box, faster to write (YAML rather than JS), and identical across platforms. For smoke tests where synchronization reliability matters less, Maestro wins. For deep coverage of RN-specific logic, Detox is still the more powerful tool.
+
+## See Also
+- [[e2e-testing]] — Detox is an E2E tool
+- [[maestro]] — black-box alternative
+- [[component-testing]] — faster lower-level tests

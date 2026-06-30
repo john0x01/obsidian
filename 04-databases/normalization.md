@@ -26,3 +26,9 @@
 ### Denormalization Trade-offs
 ### When to Denormalize for Performance
 ### Normalization in OLAP vs OLTP
+
+## See Also
+- [[relational-model]] — functional dependencies and keys
+- [[sql-vs-nosql]] — normalize vs denormalize trade-off
+- [[oltp-vs-olap]] — normalization by workload type
+- [[data-warehousing]] — denormalized dimensional schemas

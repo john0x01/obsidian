@@ -39,3 +39,9 @@
 ### Composite Safety vs Transparency Trade-offs
 
 ### Flyweight for Memory Optimization
+
+## See Also
+- [[design-patterns-creational]] — sibling GoF category
+- [[design-patterns-behavioral]] — sibling GoF category
+- [[hexagonal-architecture]] — adapter pattern at boundaries
+- [[01-programming-foundations/paradigms/inheritance-vs-composition|Inheritance vs Composition]] — decorator vs inheritance

@@ -45,3 +45,11 @@
 ### Self-Hosted vs Managed Runners
 
 ### Common Platforms (GitHub Actions, GitLab CI, Jenkins, CircleCI, Buildkite)
+
+## See Also
+- [[build-systems]] — the compile/package step pipelines drive
+- [[artifact-management]] — storing and promoting build outputs
+- [[deployment-strategies]] — how the CD stage ships changes
+- [[environments]] — promotion across stages
+- [[gitops]] — Git-driven delivery alternative
+- [[branching-strategies]] — trunk-based development alignment

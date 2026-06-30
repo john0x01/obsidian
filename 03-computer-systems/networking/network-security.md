@@ -37,3 +37,10 @@
 ### Egress Monitoring and Data Exfiltration
 
 ### DDoS Mitigation (Scrubbing, Rate Limiting, Anycast)
+
+## See Also
+- [[tls-and-ssl]] — baseline encryption defense
+- [[nat-and-firewalls]] — perimeter filtering and DMZ
+- [[dns]] — DNS spoofing and poisoning attacks
+- [[08-quality-and-operations/security/zero-trust|Zero Trust]] — segmentation model
+- [[08-quality-and-operations/security/certificates-and-pki|Certificates and PKI]] — identity for mTLS

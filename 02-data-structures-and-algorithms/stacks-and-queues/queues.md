@@ -31,3 +31,11 @@
 ## Time and Space Complexity
 
 ## Use-Cases (BFS, Scheduling)
+
+## See Also
+- [[stacks]] — LIFO counterpart to the FIFO queue
+- [[linked-lists]] — common queue implementation
+- [[traversals]] — level-order BFS uses a queue
+- [[graphs]] — BFS frontier
+- [[scheduling]] — queues in OS scheduling
+- [[message-queues]] — queues in system design

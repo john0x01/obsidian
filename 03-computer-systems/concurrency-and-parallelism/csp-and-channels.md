@@ -37,3 +37,9 @@
 ### Rust Channels (std::sync::mpsc, crossbeam)
 
 ## Comparison with Actors
+
+## See Also
+- [[actors]] — alternative message-passing model
+- [[parallelism-patterns]] — fan-in/fan-out, pipelines via channels
+- [[deadlock-and-livelock]] — channels can deadlock
+- [[threads-and-processes]] — message passing vs shared memory

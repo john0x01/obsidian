@@ -43,3 +43,9 @@
 ### A/B Benchmark Infrastructure
 
 ### Regression Detection in CI
+
+## See Also
+- [[profiling]] — locate hotspots before benchmarking them
+- [[big-o-in-practice]] — benchmarking to validate complexity
+- [[jit-vs-aot]] — JIT warm-up affects measurements
+- [[latency-vs-throughput]] — metrics under measurement

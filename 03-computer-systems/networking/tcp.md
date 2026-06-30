@@ -43,3 +43,11 @@
 ### Head-of-Line Blocking
 
 ### SYN Floods and Backlogs
+
+## See Also
+- [[udp]] — the connectionless counterpart
+- [[quic-and-http3]] — replaces TCP to avoid HoL blocking
+- [[ip-addressing-and-routing]] — TCP rides on IP
+- [[sockets]] — the API for TCP connections
+- [[http]] — primary protocol carried over TCP
+- [[osi-and-tcp-ip-models]] — TCP at the transport layer

@@ -40,3 +40,10 @@
 ## Execution Safety
 
 ### Prepared Statements and Parameterization
+
+## See Also
+- [[relational-model]] — theory SQL is built on
+- [[normalization]] — shapes the schema you query
+- [[query-optimization]] — how SQL queries execute
+- [[08-quality-and-operations/security/sql-injection|SQL Injection]] — why parameterize statements
+- [[sql-vs-nosql]] — when SQL fits the workload

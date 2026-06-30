@@ -34,3 +34,9 @@
 
 ### B-Epsilon Trees
 ### Fractal Tree Indexes
+
+## See Also
+- [[indexing]] — canonical use of B-trees
+- [[lsm-trees]] — write-optimized alternative
+- [[query-optimization]] — index access in plans
+- [[binary-search-trees]] — conceptual ancestor

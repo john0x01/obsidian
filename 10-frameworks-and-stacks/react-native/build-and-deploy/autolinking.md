@@ -65,3 +65,8 @@ A **platform-specific exclusion** marks a dependency iOS-only or Android-only, e
 ## Autolinking Performance on Large Projects
 
 Autolinking **discovery** scales linearly with `node_modules` size; large monorepos can spend 30+ seconds on `pod install` just scanning packages. Mitigations: restrict search roots via config, cache the discovery output across CI runs, or hand-curate the dependency list for build-critical workflows.
+
+## See Also
+- [[ios-build-system]] — feeds iOS native build
+- [[android-build-system]] — feeds Android native build
+- [[rn-version-upgrades]] — upgrades change linking

@@ -29,3 +29,11 @@
 
 ### Replica Placement (Rack-Aware, Region-Aware)
 ### Replication Factor Trade-offs
+
+## See Also
+- [[replication]] — database replication practice
+- [[quorum]] — quorum-based replication
+- [[consistency-models]] — consistency replicas can enforce
+- [[crdts]] — CRDT-based replication
+- [[logical-clocks]] — vector clocks for conflicts
+- [[consensus]] — state-machine replication

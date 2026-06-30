@@ -29,3 +29,7 @@
 ## Deep Linking from Notifications
 
 ## Troubleshooting
+
+## See Also
+- [[background-tasks]] — background delivery and handling
+- [[deep-linking]] — tapping opens deep links

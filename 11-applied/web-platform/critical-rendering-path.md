@@ -35,3 +35,8 @@
 ## Relationship to Performance Metrics
 
 ## Pitfalls
+
+## See Also
+- [[core-web-vitals]] — metrics the path drives
+- [[frontend-performance]] — broader optimization context
+- [[http-caching]] — caching render-blocking assets

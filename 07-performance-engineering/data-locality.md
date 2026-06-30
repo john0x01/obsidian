@@ -37,3 +37,9 @@
 ## Data-Oriented Design
 
 ## NUMA Locality Considerations
+
+## See Also
+- [[cache-friendly-code]] — applying locality in code
+- [[memory-bound-optimization]] — broader memory-bottleneck context
+- [[cache]] — cache line behavior underpinning locality
+- [[memory-hierarchy]] — temporal and spatial locality basis

@@ -41,3 +41,9 @@
 ### Signs You Should Split
 
 ### Signs You Should Not Split
+
+## See Also
+- [[microservices]] — the split-out target
+- [[service-oriented-architecture]] — coarse-grained service style
+- [[coupling-and-cohesion]] — module boundaries minimize coupling
+- [[domain-driven-design]] — bounded contexts shape modules

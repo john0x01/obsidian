@@ -34,3 +34,10 @@
 ### EXPLAIN and EXPLAIN ANALYZE
 ### Query Hints
 ### Common Performance Anti-Patterns
+
+## See Also
+- [[indexing]] — index selection drives plans
+- [[07-performance-engineering/database-performance|Database Performance]] — tuning slow queries
+- [[b-trees]] — index access methods
+- [[sql-fundamentals]] — the queries being optimized
+- [[oltp-vs-olap]] — workload shapes optimization

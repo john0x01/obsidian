@@ -35,3 +35,9 @@
 ### CSP frame-ancestors
 
 ## Mitigating in SPAs with Token-Based Auth
+
+## See Also
+- [[owasp-top-10]] — canonical vulnerability list
+- [[sessions-and-cookies]] — exploits ambient cookies
+- [[xss]] — related browser-side attack
+- [[secure-coding]] — token and SameSite defenses

@@ -26,3 +26,8 @@
 ### Kafka's Partition-Level Ordering
 ### Out-of-Order Handling Strategies
 ### Exactly-Once Delivery Requires Ordering + Dedup
+
+## See Also
+- [[logical-clocks]] — vector clocks for causal ordering (canonical)
+- [[consistency-models]] — causal and total order guarantees
+- [[consensus]] — atomic broadcast and total order

@@ -41,3 +41,10 @@
 ### Pragmatic Onion (Skipping Layers)
 
 ### When Onion Architecture Fits Best
+
+## See Also
+- [[clean-architecture]] — canonical concentric-circles form
+- [[hexagonal-architecture]] — ports-and-adapters sibling
+- [[layered-architecture]] — the layering it inverts
+- [[domain-driven-design]] — domain model at the core
+- [[dependency-injection]] — inverts outer dependencies

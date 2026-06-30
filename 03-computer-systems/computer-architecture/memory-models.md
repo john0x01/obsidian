@@ -35,3 +35,10 @@
 ## Programming Language Memory Models (C++, Java, Go)
 
 ## Double-Checked Locking Pitfalls
+
+## See Also
+- [[memory-ordering]] — the concurrency view of ordering (canonical)
+- [[atomic-operations]] — atomics carry ordering semantics
+- [[mutexes-and-locks]] — locks establish happens-before
+- [[lock-free-programming]] — relies on fences and acquire-release
+- [[cpu]] — CPU reordering is a source of weak ordering

@@ -33,3 +33,10 @@
 ## Priority Inversion and Inheritance
 
 ## Lock-Free Alternatives
+
+## See Also
+- [[semaphores-and-monitors]] — higher-level mutual exclusion
+- [[condition-variables]] — pair with mutexes to wait on state
+- [[deadlock-and-livelock]] — lock misuse causes deadlock
+- [[race-conditions]] — locks guard critical sections
+- [[lock-free-programming]] — the lockless alternative

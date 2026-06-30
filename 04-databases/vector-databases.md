@@ -33,3 +33,9 @@
 
 ### Pinecone, Weaviate, Milvus, Qdrant, pgvector
 ### Use Cases (RAG, Recommendations, Semantic Search)
+
+## See Also
+- [[embeddings]] — the vectors being stored and searched
+- [[search-engines]] — keyword counterpart and hybrid search
+- [[rag]] — primary downstream use case
+- [[indexing]] — ANN as a specialized index

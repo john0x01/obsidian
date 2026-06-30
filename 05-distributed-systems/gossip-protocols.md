@@ -26,3 +26,8 @@
 ### Membership (Cassandra, Consul, Serf)
 ### Failure Detection
 ### Phi Accrual Failure Detector
+
+## See Also
+- [[failure-detection]] — SWIM and phi-accrual detectors
+- [[consistency-models]] — convergence as eventual consistency
+- [[replication-theory]] — anti-entropy reconciliation

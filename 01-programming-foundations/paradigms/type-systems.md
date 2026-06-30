@@ -36,3 +36,9 @@
 ## Runtime Representation
 
 ### Type Erasure vs Reified Generics
+
+## See Also
+- [[generics-and-polymorphism]] — parametric polymorphism (canonical)
+- [[pattern-matching]] — ADTs and exhaustiveness
+- [[functional-programming]] — type classes and ADTs
+- [[object-oriented-programming]] — subtype polymorphism

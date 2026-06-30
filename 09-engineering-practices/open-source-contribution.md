@@ -32,3 +32,9 @@
 ### Dealing with Burnout as a Maintainer
 ### Funding Models (Sponsorship, OpenCollective)
 ### Governance Models (BDFL, Meritocracy, Foundation)
+
+## See Also
+- [[code-review]] — reviewing and submitting contributor PRs
+- [[version-control]] — forking workflow and commits
+- [[documentation]] — CONTRIBUTING and README essentials
+- [[mentorship]] — mentoring in open source

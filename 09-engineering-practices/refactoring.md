@@ -34,3 +34,10 @@
 ### Large-Scale Refactoring Strategies
 ### Branch by Abstraction
 ### Strangler Fig Pattern
+
+## See Also
+- [[code-smells]] — the problems refactoring targets
+- [[code-quality]] — canonical quality goals
+- [[technical-debt]] — refactoring as debt paydown
+- [[tdd]] — characterization tests before refactoring
+- [[naming-conventions]] — rename refactorings

@@ -33,3 +33,10 @@
 ### Back-Pressure in Event Systems
 ### Lost Events and Reliability
 ### Debugging Event-Driven Systems
+
+## See Also
+- [[reactive-programming]] — streams over events
+- [[event-loops]] — event loop dispatching
+- [[event-driven-architecture]] — architectural-scale events
+- [[pub-sub]] — publish-subscribe pattern
+- [[event-sourcing]] — events as application state

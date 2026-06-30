@@ -29,3 +29,9 @@
 ### Imperative Patterns in OOP
 ### Imperative Style in FP Languages (do-notation, for-comprehensions)
 ### Evolution Toward Mixed Paradigms
+
+## See Also
+- [[procedural-programming]] — procedures structure imperative code
+- [[object-oriented-programming]] — imperative patterns in OOP
+- [[declarative-programming]] — imperative vs declarative
+- [[recursion-and-tail-calls]] — loops vs functional recursion

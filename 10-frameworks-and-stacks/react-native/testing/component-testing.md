@@ -88,3 +88,8 @@ Jest tests should average under one second each; a 2000-test suite should finish
 ## React Server Components Considerations
 
 **React Server Components (RSC)** are not yet mainstream in RN (still experimental). When testing components on the server boundary, traditional component tests cover the client half; the server half is a separate, build-time concern. Monitor RFC progress before investing in RSC-specific testing infrastructure.
+
+## See Also
+- [[native-unit-testing]] — covers the native half
+- [[e2e-testing]] — broader end-to-end flows
+- [[re-renders]] — tests guard render behavior

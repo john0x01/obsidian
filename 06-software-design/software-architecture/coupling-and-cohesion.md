@@ -39,3 +39,10 @@
 ### Loose Coupling via Events
 
 ### Refactoring to Reduce Coupling
+
+## See Also
+- [[solid-principles]] — SRP/DIP target cohesion and coupling
+- [[dependency-injection]] — decouples via injected abstractions
+- [[09-engineering-practices/refactoring|Refactoring]] — techniques to reduce coupling
+- [[event-driven-architecture]] — loose coupling via events
+- [[domain-driven-design]] — bounded contexts limit coupling

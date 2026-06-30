@@ -79,3 +79,8 @@ Cache `~/.cocoapods`, `ios/Pods`, and Gradle's `~/.gradle/caches` and `.gradle/w
 ## Self-Hosted vs Managed CI Considerations
 
 **Managed CI** (GitHub Actions, CircleCI, Bitrise) handles macOS runners, Xcode provisioning, and Android SDKs out of the box — expensive per-minute but low overhead. **Self-hosted CI** (Mac minis in a rack) is cheaper at scale but requires Xcode upgrades, keychain hygiene, and fleet management. Fastlane runs identically on both; the choice is operational.
+
+## See Also
+- [[releasing]] — fastlane drives releases
+- [[ios-build-system]] — automates iOS builds
+- [[android-build-system]] — automates Android builds

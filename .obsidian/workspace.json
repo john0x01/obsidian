@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-frameworks-and-stacks/react-native/testing/native-unit-testing.md",
+                "file": "08-quality-and-operations/observability/logging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "native-unit-testing"
+              "title": "logging"
             }
           }
         ]
@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-frameworks-and-stacks/react-native/testing/native-unit-testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para native-unit-testing"
+              "title": "Links inversos"
             }
           },
           {
@@ -129,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-frameworks-and-stacks/react-native/testing/native-unit-testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para native-unit-testing"
+              "title": "Links de saída"
             }
           },
           {
@@ -172,13 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-frameworks-and-stacks/react-native/testing/native-unit-testing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de native-unit-testing"
+              "title": "Sumário"
             }
           }
         ]
@@ -199,8 +196,21 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "e8247ed33ffa6ade",
+  "active": "0352dbd99d5a4189",
   "lastOpenFiles": [
+    "11-applied/web-platform/critical-rendering-path.md.tmp.88521.2855e242e5ca",
+    "06-software-design/api-design/error-handling.md.tmp.88521.9580e5757f0b",
+    "08-quality-and-operations/devops-and-infrastructure/autoscaling.md.tmp.88521.06e31568274e",
+    "11-applied/web-platform/cdn.md.tmp.88521.5919b4b1ac2f",
+    "10-frameworks-and-stacks/react-native/navigation/react-navigation-internals.md.tmp.88521.ac0a344b66dc",
+    "08-quality-and-operations/devops-and-infrastructure/gitops.md.tmp.88521.b8e90c7dead3",
+    "11-applied/machine-learning-and-ai/loss-functions.md.tmp.88521.2cbbf1e81ba0",
+    "10-frameworks-and-stacks/react-native/navigation/react-native-navigation-wix.md.tmp.88521.23548c8c6eba",
+    "08-quality-and-operations/devops-and-infrastructure/immutable-infrastructure.md.tmp.88521.80137e085e2a",
+    "10-frameworks-and-stacks/react-native/navigation/navigation-lifecycle.md.tmp.88521.eabc85c7911d",
+    "10-frameworks-and-stacks/react-native/native-development/native-components.md.tmp.88521.6693de908683",
+    "08-quality-and-operations/observability/logging.md",
+    "10-frameworks-and-stacks/react-native/testing/native-unit-testing.md",
     "11-applied/README.md",
     "10-frameworks-and-stacks/README.md",
     "09-engineering-practices/README.md",
@@ -224,22 +234,9 @@
     "10-frameworks-and-stacks/react-native/architecture/javascript-runtime.md",
     "10-frameworks-and-stacks/react-native/architecture/jsi.md",
     "10-frameworks-and-stacks/react-native/debugging-and-profiling/devtools.md",
-    "10-frameworks-and-stacks/react-native/debugging-and-profiling/android-profiling.md",
-    "10-frameworks-and-stacks/react-native/native-development/native-modules.md",
-    "10-frameworks-and-stacks/react-native/native-development/native-components.md",
     "Sem título.canvas",
-    "03-computer-systems/networking/osi-and-tcp-ip-models.md.tmp.88521.0c7994047bf8",
     "10-frameworks-and-stacks/react-native/architecture/images/old-architecutre-bridge.png",
-    "02-data-structures-and-algorithms/recursion",
-    "10-frameworks-and-stacks/next-js",
-    "10-frameworks-and-stacks/node-js",
-    "01-programming-foundations/languages/javascript/review-questions.md.tmp.88521.549e208db145",
     "11-applied/web-platform/images/critical-rendering-path-01.png",
-    "11-applied/web-platform/images",
-    "11-applied/web-platform",
-    "11-applied/machine-learning-and-ai",
-    "11-applied",
-    "10-frameworks-and-stacks/react-native/architecture/images",
     "applied/advanced-web-concepts/images/critical-rendering-path-01.png",
     "frameworks/react-native/architecture/images/old-architecutre-bridge.png"
   ]

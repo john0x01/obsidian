@@ -85,3 +85,10 @@ Many modules support both architectures via compile-time flags (`RCT_NEW_ARCH_EN
 - Hardcoding main-queue assumptions that break when the JS thread is not the main thread.
 
 All of these are hard to catch in review and easy to find in production.
+
+## See Also
+- [[turbo-modules]] — the new-arch successor
+- [[jsi]] — binding layer for TurboModules
+- [[native-components]] — the UI counterpart
+- [[codegen]] — generates typed contracts
+- [[threading-model]] — module queue and JS-thread rules

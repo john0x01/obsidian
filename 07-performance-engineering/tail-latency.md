@@ -37,3 +37,9 @@
 ### Histogram Design for Tails
 
 ### Tail Latency SLOs
+
+## See Also
+- [[latency-vs-throughput]] — canonical latency context for tails
+- [[garbage-collection]] — GC pauses as a tail source
+- [[jit-vs-aot]] — JIT stalls as a tail source
+- [[06-software-design/system-design/load-balancing|load-balancing (system design)]] — balancing to reduce tail

@@ -35,3 +35,8 @@
 ### Production Regression via Canary
 
 ### Characterization Tests for Legacy
+
+## See Also
+- [[snapshot-testing]] — detects unexpected changes
+- [[end-to-end-testing]] — guards full workflows
+- [[flaky-tests]] — common regression-suite problem

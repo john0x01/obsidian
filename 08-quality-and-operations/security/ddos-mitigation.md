@@ -43,3 +43,8 @@
 ### Incident Runbooks for DDoS
 
 ### Post-Attack Analysis
+
+## See Also
+- [[06-software-design/system-design/rate-limiting|Rate Limiting (system design)]] — throttling defense
+- [[defense-in-depth]] — layered mitigations
+- [[network-security]] — network-layer defenses

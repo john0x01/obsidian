@@ -33,3 +33,10 @@
 ## When Locks Are Actually Better
 
 ## Verification and Model Checking
+
+## See Also
+- [[atomic-operations]] — canonical primitive for lock-free code
+- [[memory-ordering]] — correctness depends on it
+- [[mutexes-and-locks]] — the locking alternative compared
+- [[race-conditions]] — what lock-free design avoids
+- [[03-computer-systems/computer-architecture/cache|Cache]] — coherence shapes performance

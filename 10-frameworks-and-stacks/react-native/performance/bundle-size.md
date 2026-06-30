@@ -43,3 +43,8 @@
 ### AAB Splits and Per-ABI Bundles
 
 ### App Store Thinning vs JS Bundle Size
+
+## See Also
+- [[startup-and-tti]] — bundle size drives startup
+- [[metro-bundler]] — canonical bundler config
+- [[image-pipeline]] — assets inflate bundle weight

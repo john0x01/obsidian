@@ -38,3 +38,8 @@
 
 ### Magic Numbers
 ### Boolean Parameters
+
+## See Also
+- [[refactoring]] — techniques that remove these smells
+- [[code-quality]] — canonical quality principles
+- [[technical-debt]] — smells as debt indicators

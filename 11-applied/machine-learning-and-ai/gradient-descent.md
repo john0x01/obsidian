@@ -49,3 +49,9 @@
 ### Convergence Diagnostics
 
 ### Tuning Strategies
+
+## See Also
+- [[neural-networks]] — optimizer trains the network
+- [[loss-functions]] — gradient descent minimizes loss
+- [[deep-learning]] — large-scale optimization
+- [[overfitting-and-regularization]] — SGD noise as implicit regularizer

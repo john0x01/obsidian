@@ -41,3 +41,8 @@
 ### Cat-and-Mouse Security Posture
 
 ### Compliance Requirements (Finance, Healthcare)
+
+## See Also
+- [[device-attestation]] — server-side trust signal
+- [[secure-storage]] — rooted OS breaks storage
+- [[hermes-bytecode-reverse-engineering]] — rooting eases bytecode dumps

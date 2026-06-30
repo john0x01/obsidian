@@ -51,3 +51,9 @@
 ### Feature Stores
 
 ### Avoiding Data Leakage in Features
+
+## See Also
+- [[supervised-learning]] — features feed supervised models
+- [[embeddings]] — learned feature representations
+- [[ml-infrastructure]] — feature stores in production
+- [[decision-trees]] — tabular feature consumers

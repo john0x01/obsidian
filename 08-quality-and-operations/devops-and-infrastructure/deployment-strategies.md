@@ -45,3 +45,10 @@
 ### Database Migration Coordination
 
 ### Deployment Frequency vs Risk Trade-off
+
+## See Also
+- [[rollback-strategies]] — the safety net when a deploy fails
+- [[feature-flags]] — decouple release from deploy
+- [[ci-cd]] — pipeline that drives deploys
+- [[debugging-production]] — shadow/mirror traffic techniques
+- [[high-availability]] — zero-downtime deploy goals

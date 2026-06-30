@@ -41,3 +41,9 @@
 ## Contract Testing as an Alternative
 
 ## Observability in Integration Tests
+
+## See Also
+- [[test-pyramid]] — middle layer
+- [[unit-testing]] — lower layer
+- [[end-to-end-testing]] — higher layer
+- [[contract-testing]] — verifies service boundaries

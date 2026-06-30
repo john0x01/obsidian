@@ -43,3 +43,9 @@
 ### SOA Lessons That Carry to Microservices
 
 ### Why SOA Fell Out of Favor
+
+## See Also
+- [[microservices]] — its fine-grained successor
+- [[monolith-vs-modular-monolith]] — the deployment-style spectrum
+- [[event-driven-architecture]] — messaging and ESB lineage
+- [[06-software-design/system-design/message-queues|Message Queues]] — reliable messaging backbone

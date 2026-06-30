@@ -41,3 +41,8 @@
 ### Sigstore and Cosign (Artifact Signing)
 
 ### Container Image Signing and Verification
+
+## See Also
+- [[secret-management]] — protecting build credentials
+- [[threat-modeling]] — supply-chain threat analysis
+- [[defense-in-depth]] — layered mitigations

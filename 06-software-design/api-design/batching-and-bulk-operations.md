@@ -43,3 +43,10 @@
 ### Rate Limiting: Batch vs Individual Requests
 
 ### Observability and Tracing for Batch Operations
+
+## See Also
+- [[pagination]] — paginating large batch responses
+- [[idempotency]] — idempotent batch requests
+- [[06-software-design/api-design/rate-limiting|Rate Limiting (API)]] — batch vs per-request limits
+- [[graphql]] — query batching
+- [[error-handling]] — per-item error reporting

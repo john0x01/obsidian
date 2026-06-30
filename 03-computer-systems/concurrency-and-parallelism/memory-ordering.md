@@ -33,3 +33,10 @@
 ## Volatile Keyword Semantics (Java vs C/C++)
 
 ## Double-Checked Locking and Ordering
+
+## See Also
+- [[03-computer-systems/computer-architecture/memory-models|Memory Models]] — canonical hardware ordering reference
+- [[atomic-operations]] — atomics carry ordering constraints
+- [[lock-free-programming]] — relies on correct ordering
+- [[race-conditions]] — reordering causes subtle races
+- [[03-computer-systems/computer-architecture/cache|Cache]] — coherence and store buffers cause reordering

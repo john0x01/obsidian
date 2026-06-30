@@ -51,3 +51,10 @@
 ### Tactical DDD in Non-OOP Languages
 
 ### DDD and Microservices Alignment
+
+## See Also
+- [[microservices]] — bounded contexts map to services
+- [[cqrs]] — separates command and query models
+- [[event-sourcing]] — domain events as source of truth
+- [[clean-architecture]] — domain at the center
+- [[coupling-and-cohesion]] — aggregates enforce boundaries

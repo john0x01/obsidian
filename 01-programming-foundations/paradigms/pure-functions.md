@@ -30,3 +30,10 @@
 
 ### Pure Function Examples in Mainstream Languages
 ### Anti-Patterns (Hidden Side Effects)
+
+## See Also
+- [[functional-programming]] — paradigm built on purity (canonical)
+- [[immutability]] — eliminates mutation side effects
+- [[memoization]] — cacheable due to determinism
+- [[higher-order-functions]] — composing pure functions
+- [[monads-and-functors]] — managing effects at boundary

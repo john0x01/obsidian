@@ -39,3 +39,11 @@
 ## Parallelization for CPU Work
 
 ## Moving Work Off the Hot Path
+
+## See Also
+- [[memory-bound-optimization]] — sibling bottleneck class
+- [[io-bound-optimization]] — sibling bottleneck class
+- [[compilation-optimization]] — compiler flags, PGO, LTO, vectorization
+- [[cache-friendly-code]] — data layout for hot loops
+- [[branch-prediction]] — predictable branches in hot loops
+- [[simd-and-vectorization]] — SIMD for CPU-bound work

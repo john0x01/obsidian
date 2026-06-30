@@ -32,3 +32,9 @@
 ## Foundational Principles
 
 ### Codd's 12 Rules
+
+## See Also
+- [[sql-fundamentals]] — SQL realizes relational algebra
+- [[normalization]] — refines relational schema design
+- [[sql-vs-nosql]] — relational vs non-relational trade-offs
+- [[indexing]] — physical access to relations

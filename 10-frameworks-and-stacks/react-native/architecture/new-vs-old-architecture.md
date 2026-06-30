@@ -53,3 +53,11 @@ Rendering proceeds in three phases across three threads:
 3. **Mount phase (main/UI thread).** Fabric diffs the previous mounted tree against the new one, produces a mutation list (create view, update props, delete, reparent), and applies it to the real `UIView` / `android.view.View`.
 
 The mental model: **JS builds it → a background thread measures it (Yoga) → the main thread paints it (mount).** The key win over the old architecture is that layout no longer needs an async round-trip to JS, and the immutable tree enables safe concurrent rendering.
+
+## See Also
+- [[new-architecture-internals]] — bootstrap chain behind this model
+- [[jsi]] — what replaced the bridge
+- [[threading-model]] — the three threads in detail
+- [[rendering]] — Fabric render/commit/mount pipeline
+- [[turbo-modules]] — native calls under new arch
+- [[10-frameworks-and-stacks/react-native/review-questions|RN Review Questions]] — self-test on architecture

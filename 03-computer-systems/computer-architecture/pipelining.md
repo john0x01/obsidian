@@ -31,3 +31,9 @@
 ## Instruction-Level Parallelism (ILP)
 
 ## Pipeline Performance Metrics (CPI, IPC)
+
+## See Also
+- [[branch-prediction]] — predicting branches to avoid pipeline flushes
+- [[cpu]] — pipelining drives superscalar, out-of-order execution
+- [[instruction-set-architectures]] — ISA shapes pipeline design
+- [[simd-and-vectorization]] — another form of instruction parallelism

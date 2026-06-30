@@ -41,3 +41,9 @@
 ### Cultural Implications
 
 ### Common Anti-Patterns
+
+## See Also
+- [[sli-slo-sla]] — canonical source; budget = 1 − SLO
+- [[alerting]] — fast/slow burn-rate alerts
+- [[deployment-strategies]] — budget-based deploy gates
+- [[incident-response]] — budget exhaustion response

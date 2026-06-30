@@ -45,3 +45,9 @@
 ### One Assert per Test Debate
 
 ## Refactoring Tests Without Breaking Confidence
+
+## See Also
+- [[test-pyramid]] — base of the pyramid
+- [[integration-testing]] — next layer up
+- [[test-doubles]] — isolate the unit under test
+- [[tdd]] — test-first unit workflow

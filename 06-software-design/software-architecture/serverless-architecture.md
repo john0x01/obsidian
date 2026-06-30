@@ -47,3 +47,9 @@
 ### When Serverless Beats Containers
 
 ### Anti-Patterns (Chatty Functions, Sync Chains)
+
+## See Also
+- [[microservices]] — finer-grained relative
+- [[event-driven-architecture]] — event-triggered invocation model
+- [[06-software-design/system-design/scalability|Scalability]] — auto-scaling execution model
+- [[06-software-design/system-design/pub-sub|Pub/Sub]] — common event source

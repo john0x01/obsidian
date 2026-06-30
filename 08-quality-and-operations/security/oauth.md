@@ -43,3 +43,9 @@
 ### Common Attacks (Mix-Up, Code Interception)
 
 ## OAuth 2.1 Changes
+
+## See Also
+- [[openid-connect]] — auth layer atop OAuth
+- [[jwt]] — access token format
+- [[authorization]] — delegated authorization
+- [[authentication]] — delegated authentication

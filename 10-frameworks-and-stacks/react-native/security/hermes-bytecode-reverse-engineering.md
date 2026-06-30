@@ -41,3 +41,8 @@
 ## Legal
 
 ### Legal and Responsible Disclosure Boundaries
+
+## See Also
+- [[secure-storage]] — keeps secrets out of bytecode
+- [[jailbreak-root-detection]] — rooting eases dumps
+- [[certificate-pinning]] — reversing reveals pins

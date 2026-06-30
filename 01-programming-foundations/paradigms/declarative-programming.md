@@ -29,3 +29,10 @@
 ### Performance Challenges of Declarative Code
 ### Optimization Opportunities in Declarative Systems
 ### Debugging Declarative Code
+
+## See Also
+- [[functional-programming]] — FP as declarative subparadigm
+- [[logic-programming]] — logic as declarative subparadigm
+- [[imperative-programming]] — what vs how contrast
+- [[reactive-programming]] — declarative reactive flow
+- [[sql-fundamentals]] — SQL as declarative query

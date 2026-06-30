@@ -37,3 +37,7 @@
 ### Mutation Testing for Coverage Confidence
 
 ## Combining with Property-Based Testing
+
+## See Also
+- [[code-coverage]] — measures test effectiveness beyond coverage
+- [[unit-testing]] — evaluates unit-test quality
