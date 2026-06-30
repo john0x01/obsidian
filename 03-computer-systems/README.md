@@ -1,0 +1,67 @@
+# 03 · Computer Systems
+
+How machines actually run programs — from the silicon up through the operating system, concurrency, and the network.
+
+[← Back to vault index](../README.md)
+
+## Computer Architecture
+- [CPU](computer-architecture/cpu.md)
+- [Instruction Set Architectures](computer-architecture/instruction-set-architectures.md)
+- [Pipelining](computer-architecture/pipelining.md)
+- [Branch Prediction](computer-architecture/branch-prediction.md)
+- [SIMD and Vectorization](computer-architecture/simd-and-vectorization.md)
+- [Cache](computer-architecture/cache.md)
+- [Memory Hierarchy](computer-architecture/memory-hierarchy.md)
+- [Memory Models](computer-architecture/memory-models.md)
+- [Virtual Memory](computer-architecture/virtual-memory.md)
+- [GPU Architecture](computer-architecture/gpu-architecture.md)
+
+## Operating Systems
+- [Boot Process](operating-systems/boot-process.md)
+- [Kernel Architectures](operating-systems/kernel-architectures.md)
+- [Processes](operating-systems/processes.md)
+- [Threads](operating-systems/threads.md)
+- [Scheduling](operating-systems/scheduling.md)
+- [Memory Management](operating-systems/memory-management.md)
+- [Interrupts and Signals](operating-systems/interrupts-and-signals.md)
+- [System Calls](operating-systems/syscalls.md)
+- [I/O Models](operating-systems/io-models.md)
+- [Filesystems](operating-systems/filesystems.md)
+- [Inter-Process Communication](operating-systems/ipc.md)
+- [Containers and Namespaces](operating-systems/containers-and-namespaces.md)
+
+## Concurrency & Parallelism
+- [Threads and Processes](concurrency-and-parallelism/threads-and-processes.md)
+- [Race Conditions](concurrency-and-parallelism/race-conditions.md)
+- [Mutexes and Locks](concurrency-and-parallelism/mutexes-and-locks.md)
+- [Semaphores and Monitors](concurrency-and-parallelism/semaphores-and-monitors.md)
+- [Condition Variables](concurrency-and-parallelism/condition-variables.md)
+- [Deadlock and Livelock](concurrency-and-parallelism/deadlock-and-livelock.md)
+- [Atomic Operations](concurrency-and-parallelism/atomic-operations.md)
+- [Memory Ordering](concurrency-and-parallelism/memory-ordering.md)
+- [Lock-Free Programming](concurrency-and-parallelism/lock-free-programming.md)
+- [Thread Pools](concurrency-and-parallelism/thread-pools.md)
+- [Futures and Promises](concurrency-and-parallelism/futures-and-promises.md)
+- [Async and Await](concurrency-and-parallelism/async-and-await.md)
+- [Event Loops](concurrency-and-parallelism/event-loops.md)
+- [Actors](concurrency-and-parallelism/actors.md)
+- [CSP and Channels](concurrency-and-parallelism/csp-and-channels.md)
+- [Parallelism Patterns](concurrency-and-parallelism/parallelism-patterns.md)
+- [Amdahl's and Gustafson's Law](concurrency-and-parallelism/amdahls-and-gustafsons-law.md)
+
+## Networking
+- [OSI and TCP/IP Models](networking/osi-and-tcp-ip-models.md)
+- [Ethernet and Link Layer](networking/ethernet-and-link-layer.md)
+- [IP Addressing and Routing](networking/ip-addressing-and-routing.md)
+- [TCP](networking/tcp.md)
+- [UDP](networking/udp.md)
+- [QUIC and HTTP/3](networking/quic-and-http3.md)
+- [DNS](networking/dns.md)
+- [HTTP](networking/http.md)
+- [Sockets](networking/sockets.md)
+- [WebSockets](networking/websockets.md)
+- [TLS and SSL](networking/tls-and-ssl.md)
+- [NAT and Firewalls](networking/nat-and-firewalls.md)
+- [Proxies and Gateways](networking/proxies-and-gateways.md)
+- [Load Balancing](networking/load-balancing.md)
+- [Network Security](networking/network-security.md)

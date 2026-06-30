@@ -11,10 +11,14 @@
             "id": "e8247ed33ffa6ade",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10-frameworks-and-stacks/react-native/testing/native-unit-testing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "native-unit-testing"
             }
           }
         ]
@@ -27,14 +31,10 @@
             "id": "0352dbd99d5a4189",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "languages/javascript/execution-model/runtime.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "runtime"
+              "title": "Nova aba"
             }
           }
         ]
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10-frameworks-and-stacks/react-native/testing/native-unit-testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para native-unit-testing"
             }
           },
           {
@@ -128,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10-frameworks-and-stacks/react-native/testing/native-unit-testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para native-unit-testing"
             }
           },
           {
@@ -170,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "10-frameworks-and-stacks/react-native/testing/native-unit-testing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de native-unit-testing"
             }
           }
         ]
@@ -198,42 +201,45 @@
   },
   "active": "e8247ed33ffa6ade",
   "lastOpenFiles": [
-    "languages/javascript/execution-model/runtime.md",
-    "languages/javascript/execution-model/garbage-collector.md",
-    "distributed-systems/quorum.md",
-    "distributed-systems/replication-theory.md",
-    "distributed-systems/partitioning.md",
-    "distributed-systems/leader-election.md",
-    "distributed-systems/failure-detection.md",
-    "distributed-systems/crdts.md",
-    "distributed-systems/consistency-models.md",
-    "distributed-systems/consensus.md",
-    "distributed-systems/cap-theorem.md",
-    "distributed-systems/byzantine-fault-tolerance.md",
-    "databases/b-trees.md",
-    "quality/security/csrf.md",
-    "Bem-vindo.md",
-    "system-design/databases/sql-vs-nosql.md",
-    "system-design/databases",
-    "system-design",
-    "stacks/react-native/testing.md",
-    "stacks/react-native/performance.md",
-    "stacks/react-native/internals.md",
-    "stacks/react-native/apis.md",
-    "stacks/react-native/01-QUESTIONS.md",
-    "stacks/javascript/reference.md",
-    "stacks/javascript/internals.md",
-    "stacks/javascript/apis.md",
-    "stacks/javascript/01-QUESTIONS.md",
-    "stacks/react-native",
-    "stacks/node-js",
-    "stacks/next-js",
-    "stacks/javascript",
-    "stacks",
-    "languages/javascript/execution-model",
-    "languages/swift",
-    "languages/javascript",
-    "data-structure-and-algorithms/graphs/graphs.md",
+    "11-applied/README.md",
+    "10-frameworks-and-stacks/README.md",
+    "09-engineering-practices/README.md",
+    "08-quality-and-operations/README.md",
+    "07-performance-engineering/README.md",
+    "06-software-design/README.md",
+    "05-distributed-systems/README.md",
+    "04-databases/README.md",
+    "03-computer-systems/README.md",
+    "02-data-structures-and-algorithms/README.md",
+    "01-programming-foundations/README.md",
+    "README.md",
+    "10-frameworks-and-stacks/react-native/testing/maestro.md",
+    "10-frameworks-and-stacks/react-native/testing/e2e-testing.md",
+    "10-frameworks-and-stacks/react-native/testing/detox-internals.md",
+    "10-frameworks-and-stacks/react-native/testing/component-testing.md",
+    "10-frameworks-and-stacks/react-native/architecture/new-architecture-internals.md",
+    "10-frameworks-and-stacks/react-native/architecture/new-vs-old-architecture.md",
+    "10-frameworks-and-stacks/react-native/architecture/codegen.md",
+    "10-frameworks-and-stacks/react-native/architecture/hermes.md",
+    "10-frameworks-and-stacks/react-native/architecture/javascript-runtime.md",
+    "10-frameworks-and-stacks/react-native/architecture/jsi.md",
+    "10-frameworks-and-stacks/react-native/debugging-and-profiling/devtools.md",
+    "10-frameworks-and-stacks/react-native/debugging-and-profiling/android-profiling.md",
+    "10-frameworks-and-stacks/react-native/native-development/native-modules.md",
+    "10-frameworks-and-stacks/react-native/native-development/native-components.md",
+    "Sem título.canvas",
+    "03-computer-systems/networking/osi-and-tcp-ip-models.md.tmp.88521.0c7994047bf8",
+    "10-frameworks-and-stacks/react-native/architecture/images/old-architecutre-bridge.png",
+    "02-data-structures-and-algorithms/recursion",
+    "10-frameworks-and-stacks/next-js",
+    "10-frameworks-and-stacks/node-js",
+    "01-programming-foundations/languages/javascript/review-questions.md.tmp.88521.549e208db145",
+    "11-applied/web-platform/images/critical-rendering-path-01.png",
+    "11-applied/web-platform/images",
+    "11-applied/web-platform",
+    "11-applied/machine-learning-and-ai",
+    "11-applied",
+    "10-frameworks-and-stacks/react-native/architecture/images",
     "applied/advanced-web-concepts/images/critical-rendering-path-01.png",
     "frameworks/react-native/architecture/images/old-architecutre-bridge.png"
   ]
