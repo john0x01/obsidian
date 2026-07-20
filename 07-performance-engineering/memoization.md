@@ -37,5 +37,5 @@
 ## See Also
 - [[lazy-evaluation]] — memoization of lazy values, thunks
 - [[algorithmic-optimization]] — memoization and dynamic programming
-- [[hash-maps]] — hash-based result lookup
+- [[hash-maps-and-sets|Hash Maps & Sets]] — hash-based result lookup
 - [[big-o-in-practice]] — space-time trade-offs

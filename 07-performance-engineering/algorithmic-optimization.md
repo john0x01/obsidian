@@ -40,7 +40,7 @@
 
 ## See Also
 - [[big-o-in-practice]] — complexity choices in the real world
-- [[array-sorting]] — sorting/searching strategy selection
+- [[sorting-algorithms]] — sorting/searching strategy selection
 - [[memoization]] — caching computed results
 - [[lazy-evaluation]] — deferring and streaming work
 - [[cpu-bound-optimization]] — algorithm choice precedes micro-tuning

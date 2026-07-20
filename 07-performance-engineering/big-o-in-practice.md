@@ -38,7 +38,7 @@
 
 ## See Also
 - [[algorithmic-optimization]] — acting on complexity analysis
-- [[array-sorting]] — concrete complexity trade-offs
+- [[sorting-algorithms]] — concrete complexity trade-offs
 - [[benchmarking]] — validating complexity empirically
 - [[cache-friendly-code]] — cache effects on asymptotics
 - [[lazy-evaluation]] — lazy vs eager evaluation impact

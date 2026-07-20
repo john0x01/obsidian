@@ -8,8 +8,8 @@ A personal knowledge base of CS and software-engineering notes, organized as a l
 
 | # | Domain | What it covers |
 |---|--------|----------------|
-| 01 | [Programming Foundations](01-programming-foundations/README.md) | Programming paradigms and language/runtime internals (JavaScript). |
-| 02 | [Data Structures & Algorithms](02-data-structures-and-algorithms/README.md) | Arrays, linked lists, stacks/queues, hash tables, trees, graphs, recursion. |
+| 01 | [Programming Foundations](01-programming-foundations/README.md) | Programming paradigms and language/runtime internals (JavaScript, Java). |
+| 02 | [Data Structures & Algorithms](02-data-structures-and-algorithms/README.md) | Complexity analysis, arrays/strings, linked lists, stacks/queues, hashing, trees & heaps, graphs, and algorithmic paradigms (D&C, greedy, DP, backtracking, sorting). |
 | 03 | [Computer Systems](03-computer-systems/README.md) | Computer architecture, operating systems, concurrency, networking. |
 | 04 | [Databases](04-databases/README.md) | Relational & NoSQL models, indexing, storage engines, transactions. |
 | 05 | [Distributed Systems](05-distributed-systems/README.md) | Consensus, replication, consistency, time, fault tolerance. |
